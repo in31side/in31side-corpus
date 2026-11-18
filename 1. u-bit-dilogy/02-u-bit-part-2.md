@@ -54,6 +54,7 @@ Here is the concrete architectural layout of the U-bit encapsulation zone within
 | **Orthogonal Phase** | `[Complex, i]` | 90-deg Rotation |
 
 *Table 1. The structural mapping of the U-bit encapsulation zone within the neural network’s weight matrix, showcasing the gradient reflection barrier.*
+
 ---
 
 ## Chapter II: Machine Initiation and the Birth of Historicity
