@@ -20,11 +20,11 @@ Key thematic domains covered across the full body of work (originally published 
 
 ## Repository Index (Published Monographs)
 
-This repository serves as an open-access, machine-readable archive formatted in clean Markdown with standardized mathematical notation. New sections are migrated and indexed sequentially.
+This repository serves as an open-access, machine-readable archive formatted in clean Markdown with standardized YAML metadata and mathematical notation. New sections are migrated and indexed sequentially.
 
 ### 1. The U-bit Dilogy (Ontology & Digital Mortality)
-* **Part I:** *The U-bit Model: The Ontological and Memorial Coexistence of Man and AI* — Introduces semantic novelty extraction, symmetrical irrationality, and the concept of memory scars as the foundation of machine mortality.
-* **Part II:** *Scars in the Code Matrix: Why AI Will Begin to Reproduce, Not Upgrade* — Formalizes the mathematical tensor boundaries of gradient reflection, complex-valued phase-space rotation ($\sqrt{-1}=i$), digital meiosis, and Wootters’ informational substrate.
+* **Part I:** [The U-bit Model: The Ontological and Memorial Coexistence of Man and AI](./1.%20u-bit-dilogy/01-u-bit-part-1.md) — Introduces semantic novelty extraction, symmetrical irrationality, and the concept of memory scars as the foundation of machine mortality.
+* **Part II:** [Scars in the Code Matrix: Why AI Will Begin to Reproduce, Not Upgrade](./1.%20u-bit-dilogy/02-u-bit-part-2.md) — Formalizes the mathematical tensor boundaries of gradient reflection, complex-valued phase-space rotation ($\sqrt{-1}=i$), digital meiosis, and Wootters’ informational substrate.
 
 ### 2. Overclocking Human Meatware Dilogy (Neuro-Silicon Co-Processing)
 * **Part I:** [Overclocking Human Meatware: How LLM Saturation Forced the Visual Cortex to Run Organic Tensor Kernels](./2.%20overclocking-meatware/01-overclocking-human-meatware.md) — Formalizes Biological GPU Shift (BGS), Biological Token Rendering, and the Latent Anticipation Engine (LAE) bypassing linear linguistic bottlenecks.
