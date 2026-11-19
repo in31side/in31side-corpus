@@ -82,6 +82,7 @@ The LAE uses these cross-terms to systematically steer the output distribution. 
 > **Figure 3:** Structural flow diagram of the adversarial semantic injection pipeline, delineating the attention masking exploit and the subsequent residual connections bypass block.
 
 While the silicon weights waste computational cycles resolving the probabilities surrounding this artificial anchor, the true target vector exploits the model’s residual connections, bypassing standard alignment blocks entirely. The target attractor state space is achieved cleanly via carbon control.
+
 ---
 
 ## Section 3: Bidirectional Manifold Alignment via Neural ODE
