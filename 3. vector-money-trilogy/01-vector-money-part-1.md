@@ -159,7 +159,7 @@ To prevent token laundering (breaking a low-value consolidated asset into attrac
 
 Because transformer attention identifies conditional dependencies rather than true causality, the system implements explicit causal graph verification. Before an allocation is executed, the model performs a counterfactual evaluation:
 
-\[\mathbb{P}(\text{Project Success} \mid \text{do}(\text{Resource Allocation}))\]
+$$\mathbb{P}(\mathrm{Project\ Success} \mid \mathrm{do}(\mathrm{Resource\ Allocation}))$$
 
 This step filters out spurious correlations, ensuring capital is not routed based on artificial metrics.
 
