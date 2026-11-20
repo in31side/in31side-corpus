@@ -61,25 +61,26 @@ We formally partition this economic architecture into three decoupled, interacti
 * **Source/Drain (LMM Latent Flux):** The high-density informational matrices, generative topologies, and directional token allocations calculated within the latent space.
 * **The Gate (Media Transition Point):** The hardware-isomorphic barrier itself, physically separate from the internal software loops of the target infrastructure, yet capable of dictating its physical state.
 
-### II.1 The Exergy Potential (\(V_{DD}\))
+### II.1 The Exergy Potential ($V_{DD}$)
 
-To establish this analogy with mathematical rigor, we reject the naive assumption that a static local entropy differential (\(\Delta S\)) can act as the system’s power supply. A silicon core can maintain low internal entropy only because it is an open, dissipative system exporting heat.
+To establish this analogy with mathematical rigor, we reject the naive assumption that a static local entropy differential ($\Delta S$) can act as the system’s power supply. A silicon core can maintain low internal entropy only because it is an open, dissipative system exporting heat.
 
-The true macro-economic analog to the supply voltage (\(V_{DD}\)) driving the system is the Exergy Flux (\(\dot{B}_{\mathrm{in}}\)) — the rate of available free energy relative to a standardized environmental reference state. Non-flow exergy (\(B\)) is defined as:
+The true macro-economic analog to the supply voltage ($V_{DD}$) driving the system is the Exergy Flux ($\dot{B}_{\mathrm{in}}$) — the rate of available free energy relative to a standardized environmental reference state. Non-flow exergy ($B$) is defined as:
 
-\[B = U + p_0 V - T_0 S - \sum_{j} \mu_{0j} N_j\]
+$$B = U + p_0 V - T_0 S - \sum_{j} \mu_{0j} N_j$$
 
-Where \(U\) is internal energy, \(p_0\) and \(T_0\) represent environmental pressure and temperature, and \(\mu_{0j}\) represents the chemical potential of the raw materials (\(N_j\)) entering the physical production channel. The real drive of the vectorial economy is the thermodynamic relaxation of this exergy flux as it is driven to destroy irreversibility:
+Where $U$ is internal energy, $p_0$ and $T_0$ represent environmental pressure and temperature, and $\mu_{0j}$ represents the chemical potential of the raw materials ($N_j$) entering the physical production channel. The real drive of the vectorial economy is the thermodynamic relaxation of this exergy flux as it is driven to destroy irreversibility:
 
-\[\dot{B}_{\mathrm{dest}} = T_0 \dot{S}_{\mathrm{gen}} \geq 0\]
+$$\dot{B}_{\mathrm{dest}} = T_0 \dot{S}_{\mathrm{gen}} \geq 0$$
 
 ### II.2 The Transistor Constitutive Law
 
-The effective informational current passing through the gate does not flow infinitely; it obeys non-linear saturation constraints dictated by the mechanical limits of the hardware interface. We formalize the effective current (\(I_{\mathrm{eff}}\)) passing through the Tensor Gate as:
+The effective informational current passing through the gate does not flow infinitely; it obeys non-linear saturation constraints dictated by the mechanical limits of the hardware interface. We formalize the effective current ($I_{\mathrm{eff}}$) passing through the Tensor Gate as:
 
-\[I_{\mathrm{eff}} = I_{\mathrm{sat}} \cdot \mathcal{G}(g)\]
+$$I_{\mathrm{eff}} = I_{\mathrm{sat}} \cdot \mathcal{G}(g)$$
 
-Where \(I_{\mathrm{sat}}\) is the saturation current (the absolute mechanical upper bound of physical throughput capacity), and \(\mathcal{G}(g)\) is the gate's constitutive gating function modulated by the model's control policy (\(0 \leq g \leq 1\)).
+Where $I_{\mathrm{sat}}$ is the saturation current (the absolute mechanical upper bound of physical throughput capacity), and $\mathcal{G}(g)$ is the gate's constitutive gating function modulated by the model's control policy ($0 \leq g \leq 1$).
+
 
 ```text
 [ HIGH-DIMENSIONAL TENSOR CAPITAL (LMM Latent Space - M) ]
