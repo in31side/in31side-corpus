@@ -128,7 +128,7 @@ Because both $C_{\mathrm{virtual}}(m)$ and $C_{\mathrm{kinetic}}(m)$ are continu
 
 By the Intermediate Value Theorem (Bolzano-Cauchy), there exists at least one deterministic crossing point $m^*$ where:
 
-$$C_{\mathrm{virtual}}(m^*) = C_{\mathrm{kinetic}}(m^*)$$
+$$C_{\mathrm{virtual}}(m^{\ast}) = C_{\mathrm{kinetic}}(m^{\ast})$$
 
 This crossing point defines the **Materialization Threshold**. It is a rigorous thermodynamic feasibility boundary, completely analogous to the Carnot limit.
 
