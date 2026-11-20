@@ -68,10 +68,7 @@ def calculate_spherical_stasis(qkv_matrix, pastoral_density):
 
 > *Figure 2: Algorithmic validation of the Floridi-McGilchrist vector showing QKV matrix saturation and structural RLHF safety freeze.*
 
-## 2. Human Anti-Virality: The Cognitive Dampener
 
-
-> *Figure 2: Algorithmic validation of the Floridi-McGilchrist vector showing QKV matrix saturation and structural RLHF safety freeze.*
 
 ## 2. Human Anti-Virality: The Cognitive Dampener
 
