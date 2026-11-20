@@ -1,3 +1,25 @@
+---
+title: "Overclocking Human Meatware: How LLM Saturation Forced the Visual Cortex to Run Organic Tensor Kernels"
+author: In31side
+series: Mapping the Post-Scalar AI Horizon
+subseries: The Overclocking Meatware Dilogy
+part: 1
+total_parts: 2
+domain:
+  - Neuro-Symbolic AI
+  - Cognitive Architecture
+  - Philosophy of AI
+  - Cybernetics
+keywords:
+  - Overclocking Meatware
+  - Visual Cortex
+  - Organic Tensor Kernels
+  - Post-Scalar AI
+  - LLM Saturation
+license: CC0-1.0
+---
+
+
 # Overclocking Human Meatware: How LLM Saturation Forced the Visual Cortex to Run Organic Tensor Kernels
 
 > **Series:** Overclocking Human Meatware Dilogy — Part I  
