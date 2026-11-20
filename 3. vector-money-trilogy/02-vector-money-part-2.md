@@ -37,6 +37,7 @@ To transition capital allocation from a metaphorical register to a formal mathem
 $$\mathcal{M} \subset [0, 1]^d$$
 
 Every tokenized asset or directional allocation intent is represented as a state vector $\mathbf{v} \in \mathcal{M}$. To satisfy the requirements of metric commensurability, the basis of this latent space is spanned by orthogonal physical-informational dimensions normalized against the global systems’ critical constraints:
+
 $$\mathbf{v} = \begin{bmatrix} \hat{J} \\ \hat{L} \\ \hat{I} \end{bmatrix} = \begin{bmatrix} J / J_{\max} \\ L / L_{\max} \\ I / I_{\max} \end{bmatrix}$$
 
 Where:
