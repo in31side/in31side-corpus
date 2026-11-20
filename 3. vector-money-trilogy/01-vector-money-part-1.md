@@ -69,7 +69,7 @@ Traditional deal-making relies on bilateral negotiation. The LMM utilizes a mult
 The theoretical attention weight ($\mathbf{A}$) determines resource routing:
 
 $$\mathbf{A} = \text{softmax}\left(\frac{\mathbf{Q}\mathbf{K}^T}{\sqrt{d_k}}\right)$$
-\[\mathbf{A} = \text{softmax}\left(\frac{\mathbf{Q}\mathbf{K}^T}{\sqrt{d_k}}\right)\]
+
 
 ## III. The Topology of Latent Economic Space
 
