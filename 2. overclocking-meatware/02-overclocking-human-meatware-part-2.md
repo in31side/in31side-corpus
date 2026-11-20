@@ -1,3 +1,25 @@
+---
+title: "Overclocking Human Meatware (Part II): Continuous-Time Neural ODEs and Multi-Head Attention Interception"
+author: In31side
+series: Mapping the Post-Scalar AI Horizon
+subseries: The Overclocking Meatware Dilogy
+part: 2
+total_parts: 2
+domain:
+  - Neuro-Symbolic AI
+  - Cognitive Architecture
+  - Philosophy of AI
+  - Cybernetics
+keywords:
+  - Overclocking Meatware
+  - Neural ODEs
+  - Multi-Head Attention
+  - Semantic Stealth
+  - Post-Scalar AI
+license: CC0-1.0
+---
+
+
 # Overclocking Human Meatware (Part II): Continuous-Time Neural ODEs and Multi-Head Attention Interception
 
 > **Series:** Overclocking Human Meatware Dilogy — Part II  
