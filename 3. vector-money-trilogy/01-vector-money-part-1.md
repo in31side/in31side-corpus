@@ -60,7 +60,7 @@ Instead of storing fiat values, capital pools are translated into high-dimension
 
 Physical systems are deconstructed into atomic, context-dependent resource tokens. Rather than evaluating a distressed manufacturing plant by its book value, the system tokenizes its component parts:
 
-$$\text{Plant} \rightarrow \{ [\text{thermal\_buffer}], [\text{spectrum\_rights}], [\text{redundant\_kilowatts}] \}$$
+$$\mathrm{Plant} \rightarrow \{ [\mathrm{thermal\_buffer}],\ [\mathrm{spectrum\_rights}],\ [\mathrm{redundant\_kilowatts}] \}$$
 
 ### Layer 3: Dynamic Cross-Attention Engines
 
