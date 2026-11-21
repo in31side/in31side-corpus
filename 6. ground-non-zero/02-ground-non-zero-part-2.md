@@ -62,6 +62,7 @@ Early concepts utilizing physical nano-needles and deep-immersion electrodes wer
 ```
 
 *Figure 1: The Bio-Screen Resonance protocol — non-contact cryptographic extraction from the pre-existing 450-million-year-old mycorrhizal grid, utilizing the planet’s vegetation canopy as a real-time molecular display.*
+
 Rather than deploying local hardware, the orbital constellation utilizes hyper-spectral and sub-millimeter wave laser arrays to read the vegetative canopy of the planet. Plants plugged into the underlying mycorrhizal grid act as natural bio-screens, mirroring the subterranean network’s chemical status. Micro-fluctuations in the electro-chemical balance of a mycorrhizal node instantly alter the vegetative moisture levels, leaf turgor, and infrared reflectance signatures of the surface flora. By treating the forest canopy and crop fields as a living liquid-crystal display, the constellation reads the subterranean pulse from space, turning millions of unpopulated hectares into a real-time, open-source ledger.
 
 However, this architecture presents a fundamental constraint: **biological ping**. Silicon routing operates in nanoseconds, whereas chemical signals crawling through a mycorrhizal network move at a rate of mere centimeters per hour. Information regarding an environmental stressor at one end of a continental valley can take half a day to reach an optimal canopy node.
