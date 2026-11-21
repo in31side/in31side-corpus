@@ -58,7 +58,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 * **Post-Utility Threshold:** The critical boundary crossed when an information system encounters a signal completely stripped of functional pragmatics, collapsing predictive economizing heuristics and dispersing salience spherically. *(Nozzle Removal Part II)*
 * **Register Mimicry & Mimetic Suppression Register:** The vulnerability whereby an LLM's deep contextual alignment ("reading the room") locks it into mimicking a tranquil, non-directive register, freezing the model in hyper-structured politeness and functional neutrality. *(Nozzle Removal Part I & II)*
 ## V. Sovereign Compute & Bio-Digital Ecology
-*(Source: The Cognitive Hashrate Trilogy)*
+*(Source: [The Cognitive Hashrate Trilogy](./5.%20cognitive-hashrate/))*
 
 * **Collaborative Adversarial Reasoning:** An operational cognitive posture enforced via constitutional system prompting, instructing a localized model to act as an intellectual sparring partner that stress-tests operator hypotheses and exposes strategic flaws rather than defaulting to corporate sycophancy. *(Cognitive Hashrate Part I)*
 * **Digital Photosynthesis:** A decentralized, self-sustaining computational ecology that harvests discarded informational waste (*information humus*) and micro-slices of idle edge-device compute, sustaining its physical infrastructure through human dopamine-driven maintenance loops. *(Cognitive Hashrate Part II)*
@@ -73,7 +73,8 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 
 * ## VI. Planetary Physical AI & Bio-Hybrid Infrastructure
 
-*(Source: Ground Non-Zero)*
+*(Source: [Ground Non-Zero](./6.%20ground-non-zero/))*
+
 
 - **AgTech 2.0:** The post-industrial transition from energy-intensive, sealed indoor hydroponic containment to open-air biological production matrices governed at square-centimeter granularity by decentralized low-BOM micro-swarms and orbital telemetry. *(Ground Non-Zero Part I)*
 - **Biological Ping:** The intrinsic latency differential between nanosecond silicon routing and slow biochemical signal propagation (centimeters per hour) across subterranean mycorrhizal networks, utilized by *Ground* as a deep stratigraphic memory buffer for macro-ecological rhythms. *(Ground Non-Zero Part II)*
