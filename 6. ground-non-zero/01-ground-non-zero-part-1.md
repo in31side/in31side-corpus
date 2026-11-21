@@ -65,6 +65,7 @@ This is not a temporary inefficiency; it is a foundational architectural feature
 ```
 
 *Figure 1: The decentralized field control loop — translating orbital telemetry into physical micro-actions without continuous cloud dependency.*
+
 The data flowing through these silent corridors does not consist of social media feeds or streaming video entertainment. It consists of high-frequency telemetry, spatial vector maps, and environmental feedback loops. The orbital constellation acts as the external spinal cord. The brain, however, is deeply rooted in the soil.
 
 ## Section 2: Energy Abundance Through Absolute Optimization
