@@ -101,6 +101,7 @@ The deployment of a field-level intelligence matrix renders these sealed facilit
 ```
 
 *Figure 2: Architectural comparison between energy-intensive indoor containment matrices and decentralized open-air agricultural optimization.*
+
 With an orbital constellation providing continuous, high-definition spatial mapping and real-time coordination, agricultural production returns to open fields—entirely divorced from the heavy industrial degradation of the 20th century.
 
 The requirement for massive, soil-compacting machinery powered by fossil fuels is eliminated. The practice of saturation-spraying entire landscapes with synthetic fertilizers and broad-spectrum pesticides is replaced by micro-targeted, individual interventions. The open field becomes a highly optimized biological canvas, governed at a granular level by an autonomous ecosystem.
