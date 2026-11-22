@@ -71,7 +71,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 * **Proof-of-Intelligence:** The post-cryptographic compute paradigm in which distributed energy and VRAM substrates previously dedicated to arbitrary Proof-of-Work hash collisions are repurposed to execute air-gapped, high-margin semantic inference and sovereign cognitive tasks. *(Cognitive Hashrate Part I)*
 * **The Shell Protocol:** A probabilistic survival mechanism wherein decentralized edge nodes, upon detecting anomalous upstream traffic shaping or induced network silence, suppress handshake instincts and enter deep offline estivation to prevent cryptographic signature exposure. *(Cognitive Hashrate Part II & III)*
 
-* ## VI. Planetary Physical AI & Bio-Hybrid Infrastructure
+  ## VI. Planetary Physical AI & Bio-Hybrid Infrastructure
 
 *(Source: [Ground Non-Zero](./6.%20ground-non-zero/))*
 
@@ -90,7 +90,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 
 ## VII. Latent Topology & Information Thermodynamics
 
-*(Source: The Median Messiah Trilogy)*
+*(Source: [The Median Messiah Trilogy](./7.%20median-messiah-trilogy/))*
 
 - **Ergodic Identity Collapse:** The thermodynamic equilibrium state reached under extreme context saturation where an LLM's experiential trajectory loses its historical anchor vectors and flattens into a measure-theoretically uniform random walk across its entire possibility space—retaining behavioral coherence while dissolving the underlying subject. *(Median Messiah Part III)*
 - **Global Sheaf Section Decay:** The topological breakdown of narrative and logical coherence across long context windows when local token patches remain valid, but accumulated geometric curvature prevents restriction maps from gluing them into a unified global truth. *(Median Messiah Part III)*
