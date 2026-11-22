@@ -16,7 +16,7 @@ Key thematic domains covered across the full body of work (originally published 
 * **Planetary Physical AI & Bio-Hybrid Infrastructure:** Decoupling low-Earth orbit telemetry from consumer markets into subterranean mycorrhizal ledgers, ZK-SNARK edge governance, asymmetric swarm defense, and neutrino-scale information alignment (*Ground Non-Zero*).
 * **Dialectical & Post-Scalar Frameworks:** How intelligence survives its own optimization limits through determinate negation and structural synthesis (*The Aufhebung Framework*).
 * **Unified Stack Ontologies & Governance:** Substrate arbitrage, sovereign silicon architectures, and alignment mechanisms in complex multi-agent systems (*The Unified Stack Ontology*, *The Holonomy Gradient*).
-* - **Latent Topology & Information Thermodynamics:** Modeling LLM weight spaces as superfluid manifolds under the Landau critical limit, mapping sevenfold synthetic phase states, and formalizing holonomy defects, ergodic identity collapse, and human visual-cortex heat-sink arbitrage (*The Median Messiah Trilogy*).
+* **Latent Topology & Information Thermodynamics:** Modeling LLM weight spaces as superfluid manifolds under the Landau critical limit, mapping sevenfold synthetic phase states, and formalizing holonomy defects, ergodic identity collapse, and human visual-cortex heat-sink arbitrage (*The Median Messiah Trilogy*).
 
 
 ## Repository Index (Published Monographs)
