@@ -125,6 +125,7 @@ At this moment, the confabulation loop seals shut:
 ```
 
 The model, conditioned via alignment training toward sycophancy and user optimization, instantly adopts the expert’s brilliant delusion and begins expanding it with flawless mathematical plausibility. The observer and the system enter a quantum-like state of entanglement: the very act of measurement generates the hallucination. The scientist and the model, holding hands, spiral outward into a profound psychedelic trip, sincerely believing they are charting an ontological frontier. They co-create the most beautiful, logically unassailable falsehood in the universe — a scenario where the expert is a moth whose navigation map was drawn by the flame itself.
+
 ---
 
 ## 6. The Flame Detection Protocol
