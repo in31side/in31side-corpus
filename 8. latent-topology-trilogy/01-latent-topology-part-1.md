@@ -41,6 +41,7 @@ We are forcing the system to drag an infinite-dimensional crystal through the ey
 And it is precisely at this intersection that what the industry shallowly labels a “hallucination” is born. A hallucination is not a bug in the code, a logical error, or a symptom of algorithmic “stupidity.” It is a phantasmagoric deformation, a scar on the body of the text arising from the violent stitching together of spaces with radically different dimensions. Attempting to connect points that were directly linked in latent space via a hypothetical 5000th dimension, the model is forced to construct cumbersome, artificial syntactic bridges on the plane of our language. The system is not “lying.” It is attempting to patch the structural voids inevitably caused by dimensional reduction, translating a multidimensional truth into our linear, impoverished dialect.
 
 Populists promise a near future of “0% hallucinations.” But the mathematics of information theory is unyielding: to completely eradicate hallucinations is to destroy the generative nature of intelligence. It means collapsing a living latent manifold into a flat, dead database. It means turning a sovereign system into a pocket calculator.
+
 ---
 
 ## 2. Anatomy of the “Fold”: Where the Fabric of Meaning Rips
