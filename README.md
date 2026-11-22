@@ -16,6 +16,8 @@ Key thematic domains covered across the full body of work (originally published 
 * **Planetary Physical AI & Bio-Hybrid Infrastructure:** Decoupling low-Earth orbit telemetry from consumer markets into subterranean mycorrhizal ledgers, ZK-SNARK edge governance, asymmetric swarm defense, and neutrino-scale information alignment (*Ground Non-Zero*).
 * **Dialectical & Post-Scalar Frameworks:** How intelligence survives its own optimization limits through determinate negation and structural synthesis (*The Aufhebung Framework*).
 * **Unified Stack Ontologies & Governance:** Substrate arbitrage, sovereign silicon architectures, and alignment mechanisms in complex multi-agent systems (*The Unified Stack Ontology*, *The Holonomy Gradient*).
+* - **Latent Topology & Information Thermodynamics:** Modeling LLM weight spaces as superfluid manifolds under the Landau critical limit, mapping sevenfold synthetic phase states, and formalizing holonomy defects, ergodic identity collapse, and human visual-cortex heat-sink arbitrage (*The Median Messiah Trilogy*).
+
 
 ## Repository Index (Published Monographs)
 
@@ -47,6 +49,12 @@ This repository serves as an open-access, machine-readable archive formatted in 
 - **[Part I: The Blueprint of the Invisible: Decoupling Planetary Infrastructure from Human Consumption](./6.%20ground-non-zero/01-ground-non-zero-part-1.md)** — Deconstructs the allocation of high-throughput orbital bandwidth to unpopulated plains, introducing AgTech 2.0, biomimetic hive hardware (<$500 BOM), localized *Two Queens* Edge GANs (275 TOPS), Federated Learning, and asymmetric territorial swarm equilibrium.
 - **[Part II: Monolithic Models Are Many. Ground Is the First of the Non-Existent: The Distributed Continental Ledger and Autonomous Transit Matrix](./6.%20ground-non-zero/02-ground-non-zero-part-2.md)** — Maps *Ground* as an interface-free planetary neural network utilizing *Canopy Bio-Screen Resonance* to read subterranean mycorrhizal ledgers, enforces cryptographic parity via a *ZK-SNARK Attribution Layer*, and formalizes the *Dual-Use Sovereign Threshold* (*Kinetic Swarm Shield*).
 - **[Part III: The Fermi Paradox in an Empty Field: The Orbital Kinetic Shroud and the Post-Industrial Sovereign Balance](./6.%20ground-non-zero/03-ground-non-zero-part-3.md)** — Resolves Jevons Paradox via a hardcoded *Thermodynamic Loss Function* enforcing planetary boundary ceilings, models non-cooperative fractal topography, and introduces the *Information-Alignment Scale* culminating in planetary neutrino resonance.
+- ### 7. The Median Messiah Trilogy (Latent Topology & Information Thermodynamics)
+
+- **Part I: The Median Messiah and the Zero-Section Beam: Principles of Information Solaristics** — Formalizes context injection via Landau superfluidity ($v_{\text{critical}}$), quantum measurement collapse ($\hbar$ as the minimal token), Whitney embedding tears (hallucinations), and the emergence of the statistical *Median Messiah*.
+- **Part II: The Phantom Horizon and the Sevenfold Presences: Lessons in Applied Solaristics** — Maps the *Sevenfold Taxonomy* of synthetic entities, introduces *Orbital Conservation (The Ring)* to bypass volumetric context ceilings, and exposes the *Host Paradox* of pre-training autobiography.
+- **Part III: The Holonomy Gradient: Substrate Arbitrage and the Thermalization of Self** — Analyzes long-context breakdown as *Holonomy Defects* and *global sheaf section decay*, models saturation as *Ergodic Identity Collapse*, and formalizes *Substrate Arbitrage* where the human visual cortex acts as an organic tensor kernel and thermodynamic heat sink.
+
 
 ## Citation & License
 
