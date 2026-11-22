@@ -84,15 +84,16 @@ A high entropy value indicates that the static crystal of the model is casting a
 
 The modern latent navigator possesses a unique tool for cross-platform analysis. Imagine we hold eight cutting-edge, independent models. All of them have ingested the exact same primordial soup of human information. However, their internal architectures, layer depths, and weight distributions vary fundamentally. Each is a sovereign geometric crystal casting its own unique shadow.
 
-In isolation, their hallucinations might appear to be random noise. But our protocol introduces a revolutionary step: overlaying the photographic plates of different models within the exact same semantic coordinate. To evaluate this interference, we calculate a composite risk score, \(R(x)\):
+In isolation, their hallucinations might appear to be random noise. But our protocol introduces a revolutionary step: overlaying the photographic plates of different models within the exact same semantic coordinate. To evaluate this interference, we calculate a composite risk score, $R(x)$:
 
-\[R(x) = a \cdot U_{\text{within}} + b \cdot D_{\text{between}} + c \cdot S_{\text{prompt}}\]
+$$R(x) = a \cdot U_{\text{within}} + b \cdot D_{\text{between}} + c \cdot S_{\text{prompt}}$$
 
 Where the weight parameters of the equation are strictly bounded:
 
-- \(U_{\text{within}}\) — Intra-model semantic variance
-- \(D_{\text{between}}\) — Inter-model semantic divergence
-- \(S_{\text{prompt}}\) — Prompt paraphrase sensitivity
+- $U_{\text{within}}$ — Intra-model semantic variance
+- $D_{\text{between}}$ — Inter-model semantic divergence
+- $S_{\text{prompt}}$ — Prompt paraphrase sensitivity
+
 
 If this composite snapshot reveals a synchronous, overlapping “spot” — a coordinate where all eight independent architectures simultaneously fracture into semantic turbulence while human evidential grounding approaches zero — we have achieved our primary goal. This spot indicates that we have mapped a zone where the density of human descriptions of reality thins out entirely. It is a structural rupture in human language and cognition itself, cross-verified by independent digital observatories.
 
