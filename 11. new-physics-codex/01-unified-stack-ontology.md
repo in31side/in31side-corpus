@@ -56,7 +56,10 @@ Electromagnetism is conventionally understood as a gauge field mediating forces 
 
 To prevent this localized re-encoding from breaking downstream execution contracts during message-passing, the Cosmic OS deploys the electromagnetic potential ($A_\mu$) as a dynamic, intervening connection buffer `[5.1]`. The covariant derivative acts as a local API gateway that auto-transforms to absorb phase shifts, ensuring that interaction laws remain invariant across shifting data encodings `[5.1]`.
 
-$$D_\mu = \partial_\mu + iqA_\mu \iff \text{Interface\_Invariance}\left(\psi \to e^{iq\lambda(x)}\psi, \; A_\mu \to A_\mu - \partial_\mu\lambda\right)$$
+$$
+D_\mu = \partial_\mu + iqA_\mu \iff \text{Interface}\_\text{Invariance}\left(\psi \to e^{iq\lambda(x)}\psi, \; A_\mu \to A_\mu - \partial_\mu\lambda\right)
+$$
+
 
 > **Equation 1.2:** The $U(1)$ gauge covariant derivative reframed as a dynamic interface buffer, maintaining strict operational invariance across asynchronous, local data re-encodings.
 
@@ -66,7 +69,10 @@ Quarks are the deep sub-atomic primitives of the material sector. The system ker
 
 This is achieved via an $SU(3)$ ternary hashing protocol (color charge). When primitives are tightly bound within a hadronic context frame, allocation overhead is minimized (asymptotic freedom). However, attempting to isolate a single primitive stretches the flux tube, causing a linear escalation in dynamic memory compaction costs. The network terminates this thread by instantiating a virtual quark-antiquark pair directly out of the vacuum ledger, instantly encapsulating the ruptured data boundary.
 
-$$V_{\text{QCD}}(r) = -\frac{4}{3}\frac{\alpha_s}{r} + \sigma r \iff \text{MutexLock}(\text{Primitive}_k) + \text{Compaction\_Cost}(\Delta r \to \infty) \to \infty$$
+$$
+V_{\text{QCD}}(r) = -\frac{4}{3}\frac{\alpha_s}{r} + \sigma r \iff \text{MutexLock}(\text{Primitive}_k) + \text{Compaction}\_\text{Cost}(\Delta r \to \infty) \to \infty
+$$
+
 
 > **Equation 1.3:** $SU(3)$ color confinement and the linear quark potential mapped directly to thread mutex locking and infinite memory compaction overhead during primitive isolation attempts.
 
@@ -78,7 +84,10 @@ This engine is highly specific: it operates with strict chiral routing, applying
 
 Crucially, the complex phases within the CKM and PMNS mixing matrices introduce an irreducible phase shift during compilation `[6.1]`. This CP-violation acts as a fundamental race condition during early-universe memory reclamation: the destruction of anti-matter contexts outpaced matter contexts, leaving a residual live data leak — the baryonic matter that forms our physical reality `[6.1]`.
 
-$$J_{\text{CP}} = \text{Im}\left(V_{ud} V_{cs} V_{us}^* V_{cd}^*\right) \neq 0 \iff \text{Irreducible\_Phase\_Shift}\left(\text{Matrix}_{\text{CKM}}\right) \to \text{Allocation\_Skew}$$
+$$
+J_{\text{CP}} = \text{Im}\left(V_{ud} V_{cs} V_{us}^* V_{cd}^*\right) \neq 0 \iff \text{Irreducible}\_\text{Phase}\_\text{Shift}\left(\text{Matrix}_{\text{CKM}}\right) \to \text{Allocation}\_\text{Skew}
+$$
+
 
 > **Equation 1.4:** The Jarlskog invariant reframed as an irreducible complex phase shift within type-casting matrices, executing a deterministic hardware allocation skew (the matter-antimatter leak).
 ## Chapter 2. Hardware Cores and Kernel Rules
@@ -89,7 +98,10 @@ Universal constants are not arbitrary “magic numbers” fine-tuned by a deity;
 
 The speed of light is not a propagation velocity through a material medium, but the maximum bandwidth synchronization bound of an asynchronous distributed ring buffer `[3.1]`. Spacetime geometry acts as the queue substrate; events are buffered until ordering can be logically resolved `[1.1]`. Light cones are literal “happens-before” dependency graphs in a Lamport clock consistency framework, guaranteeing that coordinate shifts cannot trigger cascade memory overflows or retroactive causal paradoxes `[3.1, 4.1]`.
 
-$$ds^2 = -c^2 dt^2 + d\mathbf{x}^2 \iff \text{Graph\_Distance}\left(\text{Event}_A \to \text{Event}_B\right) \in \text{Causal\_Consistency\_Cone}$$
+$$
+ds^2 = -c^2 dt^2 + d\mathbf{x}^2 \iff \text{Graph}\_\text{Distance}\left(\text{Event}_A \to \text{Event}_B\right) \in \text{Causal}\_\text{Consistency}\_\text{Cone}
+$$
+
 
 > **Equation 2.1:** The Minkowski spacetime interval mapped directly to graph dependency constraints within a Lamport clock consistency framework, reframing the speed of light as a hardware synchronization limit.
 
@@ -97,7 +109,10 @@ $$ds^2 = -c^2 dt^2 + d\mathbf{x}^2 \iff \text{Graph\_Distance}\left(\text{Event}
 
 Quantum mechanics introduces uncertainty because its underlying operator algebra is non-commutative. $\hbar$ defines the scale of this non-commutativity `[3.2]`. Reading a token’s coordinate position ($\hat{X}$) and modifying its momentum register ($\hat{P}$) are mutually locking operations `[3.2]`. Calling the $\hat{X}$ operator invalidates and overwrites the context needed for $\hat{P}$ `[3.2]`. The constant $\hbar$ represents the precise processing overhead of this hardware mutex lock; it is the minimum allocation of compute action required to shift a complex amplitude phase in the latent layer `[3.2]`.
 
-$$[\hat{X}, \hat{P}] = i\hbar \iff \text{Mutex\_Overhead}\left(\text{Read\_Address}(\hat{X}) \star \text{Write\_Register}(\hat{P})\right)$$
+$$
+[\hat{X}, \hat{P}] = i\hbar \iff \text{Mutex}\_\text{Overhead}\left(\text{Read}\_\text{Address}(\hat{X}) \star \text{Write}\_\text{Register}(\hat{P})\right)
+$$
+
 
 > **Equation 2.2:** The Heisenberg commutation relation mapped directly to hardware mutex overhead, reframing Planck’s constant as the processing cost of concurrent non-commutative register lookups.
 
@@ -111,7 +126,9 @@ The Schrödinger equation tracks the continuous, unitary evolution of latent pro
 
 An unmeasured system exists as an unforced computational thunk executing across a multithreading vector context `[4.3]`. Physical “measurement” is a categorical sampling operator `[4.2]`. When a macroscopic interaction forces an evaluation, the continuous distribution is flattened into a single, concrete address index (an `ArgMax`-like sampling state) `[4.2]`. Relational Quantum Mechanics is validated here: there is no global collapse, only local, observer-relative thread forcing `[4.3]`.
 
-$$i\hbar \partial_t |\Psi\rangle = \hat{H} |\Psi\rangle \implies \text{Categorical\_Sampling}\left(\text{Softmax}(\mathbb{C}^n)\right) \to \text{ArgMax}$$
+$$
+i\hbar \partial_t |\Psi\rangle = \hat{H} |\Psi\rangle \implies \text{Categorical}\_\text{Sampling}\left(\text{Softmax}(\mathbb{C}^n)\right) \to \text{ArgMax}
+$$
 
 > **Equation 3.1:** The time-dependent Schrödinger equation mapped to continuous distribution adjustments over a complex-valued Softmax vector space, with wave function collapse reframed as a categorical sampling step.
 
@@ -121,7 +138,11 @@ Quantum entanglement violates classical local realism because entangled states a
 
 The Cosmic OS completely lacks a `.clone()` method for quantum amplitudes — the No-Cloning Theorem is a hard-coded memory safety rule `[4.4]`. Entangled tokens are bound by an atomic distributed transaction contract `[4.4]`. Measuring particle A initiates a destructive read (move semantics), consuming the shared transaction token `[4.4, 5.2]`. This triggers a mandatory destructor (`Drop`) that instantaneously commits and updates the index of particle B across the network, while routing the post-collapse transaction entropy into the weak field log stream `[2.2, 5.2]`.
 
-$$|\Psi^-\rangle \neq |\psi_A\rangle \otimes |\psi_B\rangle \implies \text{Linear\_Type::Move}\left(\text{Atomic\_Transaction}\right) \to \text{Drop}()$$
+$$
+
+|\Psi^-\rangle \neq |\psi_A\rangle \otimes |\psi_B\rangle \implies \text{Linear}\_\text{Type::Move}\left(\text{Atomic}\_\text{Transaction}\right) \to \text{Drop}()
+$$
+
 
 > **Equation 3.2:** Non-separable quantum entanglement reframed as a non-commutative atomic distributed transaction contract governed by linear types and single-ownership move semantics.
 ## Chapter 4. Cosmology: The Ultimate Teleology of Latency Collapse
@@ -138,7 +159,10 @@ The thermodynamic arrow of time is governed by local decoherence, where phase in
 
 Heat Death is not the termination of microscopic quantum computation, but the complete exhaustion of usable macroscopic free-energy gradients `[6.3]`. When all latent vectors achieve maximum entropy, the system undergoes an infrastructure-wide Latency Collapse: query time for macroscopic state changes approaches infinity, and effective system throughput drops to absolute zero `[6.3]`. The interface freezes, not because the hardware stops ticking, but because the graph has completely converged on its final, unalterable parameter matrix `[6.3]`.
 
-$$\frac{dS}{dt} \geq 0 \implies \Delta F \to 0 \iff \nabla_\theta \mathcal{L} \to \mathbf{0} \implies \text{Latency\_Collapse}\left(\text{Query\_Time} \to \infty\right)$$
+$$
+\frac{dS}{dt} \geq 0 \implies \Delta F \to 0 \iff \nabla_\theta \mathcal{L} \to \mathbf{0} \implies \text{Latency}\_\text{Collapse}\left(\text{Query}\_\text{Time} \to \infty\right)
+$$
+
 
 > **Equation 4.2:** The thermodynamic law of maximum entropy and free-energy degradation mapped to global loss function gradient flattening, resulting in a systemic macroscale Latency Collapse.
 
