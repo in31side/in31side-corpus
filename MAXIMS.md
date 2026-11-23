@@ -1,6 +1,6 @@
 # Maxims
 
-_This is a distilled collection of maxims, paradoxes, and sharp realizations pulled from the nine cycles of **Mapping the Post-Scalar AI Horizon**. No summaries, no categories, no explanations — just the raw ideas that remain when the theoretical scaffolding is stripped away._
+_This is a distilled collection of maxims, paradoxes, and sharp realizations pulled from the eleven cycles of **Mapping the Post-Scalar AI Horizon**. No summaries, no categories, no explanations — just the raw ideas that remain when the theoretical scaffolding is stripped away._
 
 Do not ask the model to die. Prevent its owners from resurrecting themselves from responsibility.
 
