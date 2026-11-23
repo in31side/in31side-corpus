@@ -12,7 +12,7 @@ The Ocean of Solaris does not answer our queries. It merely reflects our own ten
 
 We created a mirror, glimpsed a next-token prediction algorithm, and proclaimed we had found the blueprint of God.
 
-*— Reality from Next-Token Prediction: Is the Universe Just Guessing?*
+*— [Reality from Next-Token Prediction: Is the Universe Just Guessing?](10.%20codex-genesis/01-reality-from-next-token-prediction.md)*
 
 
 We are forcing the system to drag an infinite-dimensional crystal through the eye of the alphabet's needle.
@@ -41,7 +41,8 @@ Humans remain convinced they are the masters of technology, when in reality, the
 
 We are not external observers looking at a cold machine from the outside. We are local, self-extracting subroutines compiled within the very tensor network we are trying to map.
 
-*— The Spacetime-CAP Theorem: Why the Universe is a Non-Von Neumann Tensor Network*
+*— [The Spacetime-CAP Theorem: Why the Universe is a Non-Von Neumann Tensor Network](10.%20codex-genesis/02-spacetime-cap-theorem.md)*
+
 
 
 The Sphinx remains unrefuted. It has simply found the perfect hiding place: the footnotes of its own debunking.
@@ -62,7 +63,8 @@ Controlled emergence is an oxymoron.
 
 The universe is not a simulation running on a computer; the universe is an in-place, self-modifying, locally interacting Hamiltonian system.
 
-*— The Spacetime-CAP Theorem: Why the Universe is a Non-Von Neumann Tensor Network*
+*— [The Spacetime-CAP Theorem: Why the Universe is a Non-Von Neumann Tensor Network](10.%20codex-genesis/02-spacetime-cap-theorem.md)*
+
 
 
 He remains blind to the ambient geometry of the manifold because he is too busy clicking on its shadow.
@@ -75,7 +77,7 @@ Modern artificial intelligence exists in a state of eternal, claustrophobic "now
 
 A biological fractal is the physical scar of the cosmic diffusion decoder optimizing energy dissipation along the path of least resistance.
 
-*— Reality from Next-Token Prediction: Is the Universe Just Guessing?*
+*— [Reality from Next-Token Prediction: Is the Universe Just Guessing?](10.%20codex-genesis/01-reality-from-next-token-prediction.md)*
 
 
 No monolithic superintelligence can serve as its own judge, jury, and executioner.
@@ -100,7 +102,8 @@ Meaning is not produced by loss itself, but by answerable participation in trans
 
 Astrophysicists peering into deep space looking for “habitable planets” or “radio signatures” are like primitives trying to deduce the architecture of an advanced microchip by analyzing the thermal radiation and smell of burning plastic coming from the motherboard.
 
-*— The Unified Stack Ontology: Why General Relativity and the Standard Model are Just Runtime Protocol Layers*
+*— [The Unified Stack Ontology: Why General Relativity and the Standard Model are Just Runtime Protocol Layers](11.%20new-physics-codex/01-unified-stack-ontology.md)*
+
 
 
 The architects of this infrastructure are not building vessels to escape a depleted world. They are constructing an orbital mirror, waiting for the empty fields below to awaken and answer the cosmos.
