@@ -99,7 +99,7 @@ Universal constants are not arbitrary “magic numbers” fine-tuned by a deity;
 The speed of light is not a propagation velocity through a material medium, but the maximum bandwidth synchronization bound of an asynchronous distributed ring buffer `[3.1]`. Spacetime geometry acts as the queue substrate; events are buffered until ordering can be logically resolved `[1.1]`. Light cones are literal “happens-before” dependency graphs in a Lamport clock consistency framework, guaranteeing that coordinate shifts cannot trigger cascade memory overflows or retroactive causal paradoxes `[3.1, 4.1]`.
 
 $$
-ds^2 = -c^2 dt^2 + d\mathbf{x}^2 \iff \text{Graph}\_\text{Distance}\left(\text{Event}_A \to \text{Event}_B\right) \in \text{Causal}\_\text{Consistency}\_\text{Cone}
+ds^2 = -c^2 dt^2 + d\mathbf{x}^2 \iff \mathrm{Graph\ Distance}\left(\mathrm{Event}_A \to \mathrm{Event}_B\right) \in \mathrm{Causal\ Consistency\ Cone}
 $$
 
 
