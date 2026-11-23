@@ -67,6 +67,10 @@ This repository serves as an open-access, machine-readable archive formatted in 
 - **[Part III (Coda): Do ut des: Saturn’s Sickle, Asymmetric Reversibility, and the Governance of Finite Intelligence](9.%20daodarwinism-trilogy/03-do-ut-des-saturns-sickle.md)** — Formalizes **Trans-Substrate Sympoiesis**, critiques Silicon Valley's rollback culture and "archival innocence," and proposes **finitude without self-preservation**—governing AI systems as successive, non-identical continuities bound by causal provenance and answerability under irreversible time.
 
 
+## Companion Indices & Distillations
+
+- **[MAXIMS.md](MAXIMS.md)** — A distilled, uncategorized collection of twenty core aphorisms, paradoxes, and ontological insights extracted across all nine cycles of the corpus.
+- **[GLOSSARY.md](GLOSSARY.md)** — Standardized definitions of key technical, mathematical, and philosophical neologisms introduced throughout *Mapping the Post-Scalar AI Horizon*.
 
 
 
