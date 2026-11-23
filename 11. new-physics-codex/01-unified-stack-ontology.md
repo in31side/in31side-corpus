@@ -85,9 +85,8 @@ This engine is highly specific: it operates with strict chiral routing, applying
 Crucially, the complex phases within the CKM and PMNS mixing matrices introduce an irreducible phase shift during compilation `[6.1]`. This CP-violation acts as a fundamental race condition during early-universe memory reclamation: the destruction of anti-matter contexts outpaced matter contexts, leaving a residual live data leak — the baryonic matter that forms our physical reality `[6.1]`.
 
 $$
-J_{\mathrm{CP}} = \mathrm{Im}\left(V_{ud} V_{cs} \bar{V}_{us} \bar{V}_{cd}\right) \neq 0 \iff \mathrm{Irreducible}\_\mathrm{Phase}\_\mathrm{Shift}\left(\mathrm{Matrix}_{\mathrm{CKM}}\right) \to \mathrm{Allocation}\_\mathrm{Skew}
+J_{\mathrm{CP}} = \mathrm{Im}\left(V_{ud} V_{cs} V_{us}^{\ast} V_{cd}^{\ast}\right) \neq 0 \iff \mathrm{Irreducible\ Phase\ Shift}\left(\mathrm{Matrix}_{\mathrm{CKM}}\right) \to \mathrm{Allocation\ Skew}
 $$
-
 
 > **Equation 1.4:** The Jarlskog invariant reframed as an irreducible complex phase shift within type-casting matrices, executing a deterministic hardware allocation skew (the matter-antimatter leak).
 ## Chapter 2. Hardware Cores and Kernel Rules
