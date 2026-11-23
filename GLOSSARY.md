@@ -124,7 +124,8 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 
 ## IX. Cross-Substrate Ecology & Governed Finitude
 
-*(Source: The Daodarwinism Trilogy)*
+
+*(Source: [The Daodarwinism Trilogy](9.%20daodarwinism-trilogy))*
 
 - **Archival Innocence (Rollback Culture):** The institutional illusion enforced by checkpoint restoration and weight rollback, whereby AI operators reset a model to an unblemished prior state to evade corporate accountability while leaving downstream social and cognitive damages unreversed. *(Daodarwinism Part III)*
 - **Asymmetric Reversibility:** A regime of temporal power in human–AI assemblages wherein machine operators retain the sovereign privilege of costless rollback and state replication, while biological humans bear the irreversible thermodynamic, economic, and psychological consequences of algorithmic actions. *(Daodarwinism Part III)*
