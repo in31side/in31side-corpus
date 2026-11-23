@@ -138,10 +138,8 @@ Quantum entanglement violates classical local realism because entangled states a
 
 The Cosmic OS completely lacks a `.clone()` method for quantum amplitudes — the No-Cloning Theorem is a hard-coded memory safety rule `[4.4]`. Entangled tokens are bound by an atomic distributed transaction contract `[4.4]`. Measuring particle A initiates a destructive read (move semantics), consuming the shared transaction token `[4.4, 5.2]`. This triggers a mandatory destructor (`Drop`) that instantaneously commits and updates the index of particle B across the network, while routing the post-collapse transaction entropy into the weak field log stream `[2.2, 5.2]`.
 
-$$
+$$|\Psi^-\rangle \neq |\psi_A\rangle \otimes |\psi_B\rangle \implies \mathrm{Linear\ Type::Move}\left(\mathrm{Atomic\ Transaction}\right) \to \mathrm{Drop}()$$
 
-|\Psi^-\rangle \neq |\psi_A\rangle \otimes |\psi_B\rangle \implies \mathrm{Linear\ Type::Move}\left(\mathrm{Atomic\ Transaction}\right) \to \mathrm{Drop}()
-$$
 
 
 
