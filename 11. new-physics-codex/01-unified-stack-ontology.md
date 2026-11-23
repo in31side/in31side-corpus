@@ -45,7 +45,10 @@ General Relativity asserts that mass warps space-time geometry. In our ontology,
 
 When a massive data cluster commands high attention-weight density, the local graph topology compresses. This metric compression induces a localized drop in the causal update frequency relative to an external, less dense node `[4.1]`. Proper time is simply the invariant counting of local logical clock updates `[4.1]`. What macro-observers perceive as gravitational time dilation and redshift is an artifact of localized update-density throttling, preserving the Equivalence Principle as a universal base instruction cost `[4.2]`.
 
-$$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu} \iff \text{Continuum\_Limit}\left(\Delta_{\text{Graph}} A_{\mu\nu}\right) \to \text{Update\_Density}(x)$$
+$$
+G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu} \iff \text{Continuum_Limit}\left(\Delta_{\text{Graph}} A_{\mu\nu}\right) \to \text{Update_Density}(x)
+$$
+
 
 > **Equation 1.1:** Mapping the Einstein Field Equations directly to the continuum limit of the network’s Graph Laplacian and localized parameter update density.
 ### 1.2 Electromagnetism: The Local $U(1)$ Gauge Representation Protocol
