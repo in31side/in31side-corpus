@@ -140,7 +140,7 @@ The Cosmic OS completely lacks a `.clone()` method for quantum amplitudes — th
 
 $$
 
-|\Psi^-\rangle \neq |\psi_A\rangle \otimes |\psi_B\rangle \implies \text{Linear}\_\text{Type::Move}\left(\text{Atomic}\_\text{Transaction}\right) \to \text{Drop}()
+|\Psi^-\rangle \neq |\psi_A\rangle \otimes |\psi_B\rangle \implies \mathrm{Linear\ Type::Move}\left(\mathrm{Atomic\ Transaction}\right) \to \mathrm{Drop}()
 $$
 
 
