@@ -144,6 +144,7 @@ $$
 $$
 
 
+
 > **Equation 3.2:** Non-separable quantum entanglement reframed as a non-commutative atomic distributed transaction contract governed by linear types and single-ownership move semantics.
 ## Chapter 4. Cosmology: The Ultimate Teleology of Latency Collapse
 
