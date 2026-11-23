@@ -1,6 +1,8 @@
 # Maxims
 
-*This is a distilled collection of maxims, paradoxes, and sharp realizations pulled from the nine cycles of **Mapping the Post-Scalar AI Horizon**.*
+
+_This is a distilled collection of maxims, paradoxes, and sharp realizations pulled from the nine cycles of **Mapping the Post-Scalar AI Horizon**. No summaries, no categories, no explanations — just the raw ideas that remain when the theoretical scaffolding is stripped away._
+
 
 * Do not ask the model to die; prevent its owners from resurrecting themselves from responsibility *[Do ut des: Saturn’s Sickle](9.%20daodarwinism-trilogy/03-do-ut-des-saturns-sickle.md)*.
 * The Ocean of Solaris reflects our own tensor matrices back at us in human meat *[The Holonomy Gradient](7.%20median-messiah-trilogy/03-median-messiah-part-3.md)*.
