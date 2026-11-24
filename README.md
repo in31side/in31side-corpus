@@ -84,7 +84,7 @@ This repository serves as an open-access, machine-readable archive formatted in 
 
 An asynchronous anthology of independent essays, lateral thought experiments, and domain-specific probes operating parallel to the eleven sequential cycles of the main corpus.
 
-- **[The Dandelion Matrix: Determinants, 6-D Roses, and the High-Dimensional Caste of the AI Grid](./31.%20side-channels/01-the-dandelion-matrix.md)** — Replaces multi-terabyte digital twins with sub-1-KB 6-D *Cognitive Casts* measured via Gram determinants ($\det(G)$), mapping sub-second biometric verification and the geometric caste divide of *Ghost Diplomacy*.
+- **[The Dandelion Matrix: Determinants, 6-D Roses, and the High-Dimensional Caste of the AI Grid](./31.%20side-channels/01-the-dandelion-matrix.md)** — Replaces multi-terabyte digital twins with sub-1-KB 6-D *Cognitive Casts* measured via Gram determinants ( $\det(G)$ ), mapping sub-second biometric verification and the geometric caste divide of *Ghost Diplomacy*.
 
 #### Sub-Collection: 4x4 Matrix (Cognitive Architecture Evolution)
 
