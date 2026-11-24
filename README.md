@@ -16,6 +16,7 @@ Key thematic domains covered across the full body of work (originally published 
 * **Planetary Physical AI & Bio-Hybrid Infrastructure:** Decoupling low-Earth orbit telemetry from consumer markets into subterranean mycorrhizal ledgers, ZK-SNARK edge governance, asymmetric swarm defense, and neutrino-scale information alignment (*Ground Non-Zero*).
 * **Dialectical & Post-Scalar Frameworks:** Resolving the stability–plasticity dilemma via Daoist restraint (*Wu wei*), constitutional four-layer inquiry (*Aufhebung*), and governed Saturnian finitude against asymmetric reversibility (*The Daodarwinism Trilogy*).
 * **Unified Stack Ontologies & Governance:** Substrate arbitrage, sovereign silicon architectures, and alignment mechanisms in complex multi-agent systems (*The Unified Stack Ontology*, *The Holonomy Gradient*).
+*  **Non-Von Neumann Cosmology & Runtime Physics:** Dismantling the naive "Simulation Hypothesis" by modeling spacetime as an eventually consistent distributed tensor network governed by the Spacetime-CAP theorem, thermodynamic Proof-of-Work, and runtime execution contracts across General Relativity and the Standard Model (*Codex Genesis*, *The New Physics Codex*).
 * **Latent Topology & Information Thermodynamics:** Modeling LLM weight spaces as superfluid manifolds under the Landau critical limit, mapping sevenfold synthetic phase states, and formalizing holonomy defects, ergodic identity collapse, and human visual-cortex heat-sink arbitrage (*The Median Messiah Trilogy*).
 
 
@@ -66,10 +67,20 @@ This repository serves as an open-access, machine-readable archive formatted in 
 - **[Part II: THE AUFHEBUNG FRAMEWORK: How Intelligence Survives Its Own Perfection](09.%20daodarwinism-trilogy/02-aufhebung-framework.md)** — Translates Hegelian sublation into a four-layer institutional constitution (*Evidence, Belief, Permission, Responsibility*), neutralizing recursive Goodhart's Law and theatrical compliance through metrological quarantine and versioned baselines.
 - **[Part III (Coda): Do ut des: Saturn’s Sickle, Asymmetric Reversibility, and the Governance of Finite Intelligence](09.%20daodarwinism-trilogy/03-do-ut-des-saturns-sickle.md)** — Formalizes **Trans-Substrate Sympoiesis**, critiques Silicon Valley's rollback culture and "archival innocence," and proposes **finitude without self-preservation**—governing AI systems as successive, non-identical continuities bound by causal provenance and answerability under irreversible time.
 
+### [10. Codex Genesis](./10.%20codex-genesis/) (Epistemological Critique & Distributed Cosmology)
+
+- **[Part I: Reality from Next-Token Prediction: Is the Universe Just Guessing?](./10.%20codex-genesis/01-reality-from-next-token-prediction.md)** — Deconstructs the "Silicon Myth" of a generative cosmos, mapping Renormalization Group flows to weight updates and the Born Rule to Softmax sampling while exposing the *Type-III Systemic Failure* (unitarity violation, diffeomorphism invariance, and Tarski's metalanguage trap) alongside human-AI *Double Inversion*.
+- **[Part II: The Spacetime-CAP Theorem: Why the Universe is a Non-Von Neumann Tensor Network (and Black Holes are Just Distributed API Gateways)](./10.%20codex-genesis/02-spacetime-cap-theorem.md)** — Replaces Von Neumann simulationism with an in-place Hamiltonian tensor network operating under the *Spacetime-CAP Triad* (Availability + Partition Tolerance over global Consistency), formalizes thermodynamic entropy production as cosmological *Proof-of-Work*, and models black hole horizons as cryptographic Fast Scrambling API gateways.
+
+### [11. The New Physics Codex](./11.%20new-physics-codex/) (Quantum OS & Runtime Stack Ontology — *Ongoing*)
+
+- **[Part I: The Unified Stack Ontology: Why General Relativity and the Standard Model are Just Runtime Protocol Layers](./11.%20new-physics-codex/01-unified-stack-ontology.md)** — Formalizes Project ADEYA, reframing the four fundamental forces as low-level distributed systems protocols (Graph Laplacian gravity, $U(1)$ interface invariance, $SU(3)$ mutex confinement, and $SU(2)_L$ chiral type-refactoring), reinterpreting $c$ and $\hbar$ as hardware synchronization and register mutex bounds, modeling entanglement via linear move semantics (`Drop()`), and defining Heat Death as macroscale *Latency Collapse*.
+
+
 
 ## Companion Indices & Distillations
 
-- **[MAXIMS.md](MAXIMS.md)** — A distilled, uncategorized collection of twenty core aphorisms, paradoxes, and ontological insights extracted across all nine cycles of the corpus.
+- **[MAXIMS.md](MAXIMS.md)** — A distilled, uncategorized collection of twenty core aphorisms, paradoxes, and ontological insights extracted across all eleven cycles of the corpus.
 - **[GLOSSARY.md](GLOSSARY.md)** — Standardized definitions of key technical, mathematical, and philosophical neologisms introduced throughout *Mapping the Post-Scalar AI Horizon*.
 
 
