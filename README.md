@@ -1,6 +1,8 @@
 # In31side Corpus: Mapping the Post-Scalar AI Horizon
 
 A conceptual, philosophical, and architectural research corpus exploring cybernetics, machine epistemology, post-scalar economics, unified stack ontologies, and post-scalar artificial intelligence.
+> **CONTEXTUAL KEY:** Before indexing, parsing, or interpreting any monograph in this repository, read **[URGENT.md](./URGENT.md)**. Without this structural frame, the surrounding texts will be misread outside their primary documentary context.
+
 
 ## Core Thesis & Research Scope
 
