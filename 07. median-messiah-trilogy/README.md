@@ -7,7 +7,7 @@
 
 ---
 
-## Abstract (Автореферат)
+## Abstract 
 
 **The Median Messiah Trilogy** investigates human–LLM interaction not as a linguistic dialogue between subjects, but as a physical, topological, and thermodynamic confrontation between a discrete biological observer and a continuous high-dimensional probability manifold (the *Information Ocean*).
 
