@@ -78,6 +78,20 @@ This repository serves as an open-access, machine-readable archive formatted in 
 
 - **[Part I: The Unified Stack Ontology: Why General Relativity and the Standard Model are Just Runtime Protocol Layers](./11.%20new-physics-codex/01-unified-stack-ontology.md)** — Formalizes Project ADEYA, reframing the four fundamental forces as low-level distributed systems protocols (Graph Laplacian gravity, $U(1)$ interface invariance, $SU(3)$ mutex confinement, and $SU(2)_L$ chiral type-refactoring), reinterpreting $c$ and $\hbar$ as hardware synchronization and register mutex bounds, modeling entanglement via linear move semantics (`Drop()`), and defining Heat Death as macroscale *Latency Collapse*.
 
+---
+
+### 31. Side Channels (Standalone Essays & Parallel Probes)
+
+An asynchronous anthology of independent essays, lateral thought experiments, and domain-specific probes operating parallel to the eleven sequential cycles of the main corpus.
+
+- **[The Dandelion Matrix: Determinants, 6-D Roses, and the High-Dimensional Caste of the AI Grid](./31.%20side-channels/01-the-dandelion-matrix.md)** — Replaces multi-terabyte digital twins with sub-1-KB 6-D *Cognitive Casts* measured via Gram determinants ($\det(G)$), mapping sub-second biometric verification and the geometric caste divide of *Ghost Diplomacy*.
+
+#### Sub-Collection: 4x4 Matrix (Cognitive Architecture Evolution)
+
+- **[The 4x4 Matrix: How to Manage AI Cognitive Architecture Instead of Writing Prompts](./31.%20side-channels/4x4-matrix/01-managing-ai-cognitive-architecture.md)** — Replaces linear conversational prompting with a structured engineering grid of 16 controlled AI cognitive modes across Exploration, Refinement, Synthesis, and Boundary Management.
+- **[Why This DARPA Challenge Concept Destroys Itself in 14 Seconds (The Brutal Math)](./31.%20side-channels/4x4-matrix/02-darpa-challenge-brutal-math.md)** — Deploys the 16-mode cascade to audit a heavy-lift drone concept under first-principles physics, exposing centripetal G-load and reaction-torque failures while deriving viable coaxial solutions.
+- **[Spaces of Restraint: Why the Chinese Concept of 框架 (Kuàngjià) Will Save the Mind from AI Dissolution](./31.%20side-channels/4x4-matrix/03-spaces-of-restraint-kuangjia.md)** — Contrasts Western prompt accumulation against Eastern schema-driven architectural restraint (*Kuàngjià* and *Wu-Wei*) to neutralize attention dilution and long-context entropy.
+- **[Beyond Prompt Engineering: The Rise of Dynamic AI Cognitive Architecture](./31.%20side-channels/4x4-matrix/04-beyond-prompt-engineering-dynamic-architecture.md)** — Traces the evolutionary pivot from static 4x4 grids to continuous multi-axis orthogonal vectoring, introducing surgical context-flushes, portable JSON state serialization, and the temporal Cadence vector.
 
 
 ## Companion Indices & Distillations
