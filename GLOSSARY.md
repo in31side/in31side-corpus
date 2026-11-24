@@ -165,7 +165,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 - **Register Mutex Overhead ($\hbar$) & Causal Ring Buffer ($c$):** The hardware-level reinterpretation of Planck's constant ($\hbar$) as the non-commutative locking cost of reading position ($\hat{X}$) while mutating momentum ($\hat{P}$), and the speed of light ($c$) as the maximum bandwidth synchronization bound of a Lamport-clock causal consistency cone. *(New Physics Codex Part I)*
 - **Runtime Gauge Protocols ( $U(1)$ & $SU(3)$ ):** The reframing of fundamental gauge symmetries as system integrity contracts: electromagnetism ($U(1)$) functions as a covariant API buffer absorbing asynchronous local phase re-encodings, while the strong force ( $SU(3)$ ) enforces hard memory encapsulation via mutex locks that terminate quark isolation threads by instantiating virtual pairs. *(New Physics Codex Part I)*
 
-## XII. Applied Cognitive Architecture & Latent Sovereignty
+## Applied Cognitive Architecture & Latent Sovereignty
 *(Source: Side Channels — The Dandelion Matrix & 4x4 Matrix Collection)*
 
 - **Axis Contamination:** A failure mode in continuous multi-axis vector prompting where the subject matter of a query bleeds into and corrupts the reasoning altitude axis, causing positional drift and context collapse. *(Beyond Prompt Engineering)*
