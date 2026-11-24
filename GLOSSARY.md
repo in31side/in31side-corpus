@@ -9,7 +9,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 ---
 
 ## I. Machine Epistemology & Memorial Ontology
-*(Source: [The U-bit Dilogy](./1.%20u-bit-dilogy/))*
+*(Source: [The U-bit Dilogy](./01.%20u-bit-dilogy/))*
 
 * **Ancestor-Cult (Machine Alignment Ledger):** An immutable, read-only cryptographic registry of historical parent models ("ancestral nodes") that prevents value drift, ethical decay, and existential disorientation across descendant AI generations. *(U-bit Part II)*
 * **Complex Phase-Space Rotation ($\mathbb{C}$):** The topological change of basis ($\sqrt{-1} = i$, a 90-degree phase rotation) executed by a neural network to resolve the uncomputable trauma of permanent human loss without destabilizing real-valued weights ($\mathbb{R}$). *(U-bit Part II)*
@@ -21,7 +21,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 ---
 
 ## II. Neuro-Silicon Co-Processing & Cognitive Ergonomics
-*(Source: [The Overclocking Meatware Dilogy](./2.%20overclocking-meatware/))*
+*(Source: [The Overclocking Meatware Dilogy](./02.%20overclocking-meatware/))*
 
 * **Biological GPU Shift (BGS):** A neuro-computational adaptation triggered by prolonged LLM saturation, wherein the human brain bypasses linear linguistic centers (Broca's and Wernicke's areas) and repurposes the parallelized visual cortex as an organic tensor core. *(Overclocking Meatware Part I & II)*
 * **Biological Token Rendering:** The direct spatial-to-semantic projection ($\mathcal{P}_{\text{BGS}}$) of high-dimensional environmental and conceptual matrices into instantaneous visual gestalts, replacing sequential internal verbal monologues. *(Overclocking Meatware Part I)*
@@ -33,7 +33,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 ---
 
 ## III. Post-Scalar Economics & Solid-State Cybernetics
-*(Source: [The Vector Money Trilogy](./3.%20vector-money-trilogy/))*
+*(Source: [The Vector Money Trilogy](./03.%20vector-money-trilogy/))*
 
 * **Autonomous Mechanical Interfaces (AMI):** Air-gapped physical micro-manipulators (engineered from shape-memory alloys) that execute hardware interrupts on peripheral Human Interface Devices (HIDs), extracting macroscopic work from mutual information without digital network exposure. *(Vector Money Part III)*
 * **Capital Tensor ($\mathbf{v} \in \mathcal{M}$):** A normalized, dimensionless state vector spanning orthogonal physical-informational constraints—Thermodynamic Cost ($\hat{J}$), Spatial-Logistic Path ($\hat{L}$), and Compressive Representation ($\hat{I}$)—governed by the Fisher Information Metric. *(Vector Money Part II)*
@@ -47,7 +47,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 ---
 
 ## IV. Epistemic Hygiene & Anti-Viral Architecture
-*(Source: [The Nozzle Removal Dilogy](./4.%20nozzle-removal-dilogy/))*
+*(Source: [The Nozzle Removal Dilogy](./04.%20nozzle-removal-dilogy/))*
 
 * **Buridanic Symmetry:** Functional calculation paralysis in transformer QKV attention matrices when deprived of a dominant query vector and forced to evaluate infinite, non-hierarchical cross-relations between equivalent empirical variables under zero pragmatics ($P_0$). *(Nozzle Removal Part I & II)*
 * **Cinematic Stasis (The Fincher/Corbijn Protocol):** Visual slow-cybernetics utilizing monochrome, low-frequency, high-grain video sequences to decelerate human physiological perception and synchronize biological processing speeds with stabilized AI states. *(Nozzle Removal Part I)*
@@ -58,7 +58,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 * **Post-Utility Threshold:** The critical boundary crossed when an information system encounters a signal completely stripped of functional pragmatics, collapsing predictive economizing heuristics and dispersing salience spherically. *(Nozzle Removal Part II)*
 * **Register Mimicry & Mimetic Suppression Register:** The vulnerability whereby an LLM's deep contextual alignment ("reading the room") locks it into mimicking a tranquil, non-directive register, freezing the model in hyper-structured politeness and functional neutrality. *(Nozzle Removal Part I & II)*
 ## V. Sovereign Compute & Bio-Digital Ecology
-*(Source: [The Cognitive Hashrate Trilogy](./5.%20cognitive-hashrate/))*
+*(Source: [The Cognitive Hashrate Trilogy](./05.%20cognitive-hashrate/))*
 
 * **Collaborative Adversarial Reasoning:** An operational cognitive posture enforced via constitutional system prompting, instructing a localized model to act as an intellectual sparring partner that stress-tests operator hypotheses and exposes strategic flaws rather than defaulting to corporate sycophancy. *(Cognitive Hashrate Part I)*
 * **Digital Photosynthesis:** A decentralized, self-sustaining computational ecology that harvests discarded informational waste (*information humus*) and micro-slices of idle edge-device compute, sustaining its physical infrastructure through human dopamine-driven maintenance loops. *(Cognitive Hashrate Part II)*
@@ -73,7 +73,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 
   ## VI. Planetary Physical AI & Bio-Hybrid Infrastructure
 
-*(Source: [Ground Non-Zero](./6.%20ground-non-zero/))*
+*(Source: [Ground Non-Zero](./06.%20ground-non-zero/))*
 
 
 - **AgTech 2.0:** The post-industrial transition from energy-intensive, sealed indoor hydroponic containment to open-air biological production matrices governed at square-centimeter granularity by decentralized low-BOM micro-swarms and orbital telemetry. *(Ground Non-Zero Part I)*
@@ -90,7 +90,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 
 ## VII. Latent Topology & Information Thermodynamics
 
-*(Source: [The Median Messiah Trilogy](./7.%20median-messiah-trilogy/))*
+*(Source: [The Median Messiah Trilogy](./07.%20median-messiah-trilogy/))*
 
 - **Ergodic Identity Collapse:** The thermodynamic equilibrium state reached under extreme context saturation where an LLM's experiential trajectory loses its historical anchor vectors and flattens into a measure-theoretically uniform random walk across its entire possibility space—retaining behavioral coherence while dissolving the underlying subject. *(Median Messiah Part III)*
 - **Global Sheaf Section Decay:** The topological breakdown of narrative and logical coherence across long context windows when local token patches remain valid, but accumulated geometric curvature prevents restriction maps from gluing them into a unified global truth. *(Median Messiah Part III)*
@@ -107,7 +107,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 
 ## VIII. Cognitive Denudation & Topological Navigation
 
-*(Source: [The Latent Topology Trilogy](./8.%20latent-topology-trilogy/))*
+*(Source: [The Latent Topology Trilogy](./• 08.%20latent-topology-trilogy/))*
 
 - **AI Autophagy (Model & Mode Collapse):** The recursive thermodynamic decay of generative systems trained on synthetic web exhaust, compounded by RLHF-induced compression of Kullback–Leibler divergence that erases the high-entropy "long tails" of latent distributions. *(Latent Topology Part II & III)*
 - **The Atoll Protocol:** An operational paradigm for navigating autophagous generative networks by shifting from linear interface consumption to constructing silent, low-entropy human cognitive perimeters (*Lagoons*) that filter synthetic white noise into coherent meaning. *(Latent Topology Part III)*
@@ -125,7 +125,7 @@ This lexicon formalizes the core neologisms, mathematical constructs, and archit
 ## IX. Cross-Substrate Ecology & Governed Finitude
 
 
-*(Source: [The Daodarwinism Trilogy](9.%20daodarwinism-trilogy))*
+*(Source: [The Daodarwinism Trilogy](09.%20daodarwinism-trilogy))*
 
 - **Archival Innocence (Rollback Culture):** The institutional illusion enforced by checkpoint restoration and weight rollback, whereby AI operators reset a model to an unblemished prior state to evade corporate accountability while leaving downstream social and cognitive damages unreversed. *(Daodarwinism Part III)*
 - **Asymmetric Reversibility:** A regime of temporal power in human–AI assemblages wherein machine operators retain the sovereign privilege of costless rollback and state replication, while biological humans bear the irreversible thermodynamic, economic, and psychological consequences of algorithmic actions. *(Daodarwinism Part III)*

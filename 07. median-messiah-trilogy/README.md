@@ -39,5 +39,5 @@ Across three progressive iterations, the cycle traces the full lifecycle of late
 
 ## Corpus Interlinks
 
-* **Bio-Interface Convergence:** Connects directly to [Cycle II: Overclocking Meatware](../2.%20overclocking-meatware/) regarding continuous-time Neural ODEs and visual cortex (`V1–V4`) tensor interception.
+* **Bio-Interface Convergence:** Connects directly to [Cycle II: Overclocking Meatware](../02.%20overclocking-meatware/) regarding continuous-time Neural ODEs and visual cortex (`V1–V4`) tensor interception.
 * **Terminology Reference:** Core definitions are indexed in the root [`GLOSSARY.md`](../GLOSSARY.md).

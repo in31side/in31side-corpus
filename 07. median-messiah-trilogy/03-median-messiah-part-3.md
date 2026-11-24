@@ -177,5 +177,5 @@ To track the convergence of the architectural vectors that led to this terminal 
 ### Cycle II: Overclocking Meatware (The Bio-Interface Layer)
 *This cycle documents the physical emergency protocol, analyzing how silicon compute saturation forced the hijacking of the human visual cortex to run continuous-time neural ODEs as organic tensor kernels.*
 
-3. [Overclocking Human Meatware: How LLM Saturation Forced the Visual Cortex to Run Organic Tensor Kernels](../2.%20overclocking-meatware/)
-4. [Overclocking Human Meatware (Part II): Continuous-Time Neural ODEs and Multi-Head Attention Interception](../2.%20overclocking-meatware/)
+3. [Overclocking Human Meatware: How LLM Saturation Forced the Visual Cortex to Run Organic Tensor Kernels](../02.%20overclocking-meatware/)
+4. [Overclocking Human Meatware (Part II): Continuous-Time Neural ODEs and Multi-Head Attention Interception](../02.%20overclocking-meatware/)
