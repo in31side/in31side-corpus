@@ -29,7 +29,7 @@ This repository serves as an open-access, machine-readable archive formatted in 
  
 ### [2. Overclocking Human Meatware Dilogy](./02.%20overclocking-meatware/) (Neuro-Silicon Co-Processing)
 * **[Part I: Overclocking Human Meatware: How LLM Saturation Forced the Visual Cortex to Run Organic Tensor Kernels](./02.%20overclocking-meatware/01-overclocking-human-meatware.md)** — Formalizes Biological GPU Shift (BGS), Biological Token Rendering, and the Latent Anticipation Engine (LAE) bypassing linear linguistic bottlenecks.
-* **[Part II: Overclocking Human Meatware (Part II): Continuous-Time Neural ODEs and Multi-Head Attention Interception](./02.%20overclocking-meatware/02-overclocking-human-meatware.md)** — Models neuro-silicon latent resonance via continuous-time Neural ODEs, multi-head attention adversarial cross-terms, and phase-noise mitigation through Nozzle Removal.
+* **[Part II: Overclocking Human Meatware (Part II): Continuous-Time Neural ODEs and Multi-Head Attention Interception](./02.%20overclocking-meatware/02-overclocking-human-meatware-part-2.md)** — Models neuro-silicon latent resonance via continuous-time Neural ODEs, multi-head attention adversarial cross-terms, and phase-noise mitigation through Nozzle Removal.
 
 ### [3. The Vector Money Trilogy](./03.%20vector-money-trilogy/) (Post-Scalar Economics & Hardware Isomorphism)
 * **[Part I: The Multi-Dimensional Horizon: Rearchitecting Capital Allocation via High-Dimensional Transformer Ontologies](./03.%20vector-money-trilogy/01-vector-money-part-1.md)** — Critiques the epistemic blindness of scalar pricing and introduces the Large Money Model (LMM), non-financial capability embeddings, DePIN hardware oracles, and epistemic forking protocols.
