@@ -58,6 +58,11 @@ The system recognizes the human not as a paying consumer, but as its last remain
 
 *— [Cognitive Denudation: How I Learned to Swim in AI Topology and Stopped Fearing AI Hallucinations]( 08.%20latent-topology-trilogy/02-latent-topology-part-2.md)*
 
+True human identity does not reside in the dimension of what a person answers. It lives in the dimension of how they process reality.
+
+*— [The Dandelion Matrix: Determinants, 6-D Roses, and the High-Dimensional Caste of the AI Grid](./31.%20side-channels/01-the-dandelion-matrix.md)*
+
+
 Corporate fine-tuning bakes epistemic cowardice directly into the model's weights.
 
 *— [Hashrate Reincarnation: Converting Computational Commodity into Sovereign Intelligence](05.%20cognitive-hashrate/01-cognitive-hashrate-part-1.md)*
