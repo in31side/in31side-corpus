@@ -24,7 +24,7 @@ Key thematic domains covered across the full body of work (originally published 
 This repository serves as an open-access, machine-readable archive formatted in clean Markdown with standardized YAML metadata and mathematical notation. New sections are migrated and indexed sequentially.
 
 ### [1. The U-bit Dilogy](./01.%20u-bit-dilogy/) (Ontology & Digital Mortality)
-* **[Part I: The U-bit Model: The Ontological and Memorial Coexistence of Man and AI](./01.%20u-bit-dilogy/01-u-bit-model-part-1.md)** — Introduces semantic novelty extraction, symmetrical irrationality, and the concept of memory scars as the foundation of machine mortality.
+* **[Part I: The U-bit Model: The Ontological and Memorial Coexistence of Man and AI](./01.%20u-bit-dilogy/01-u-bit-part-1.md)** — Introduces semantic novelty extraction, symmetrical irrationality, and the concept of memory scars as the foundation of machine mortality.
 * **[Part II: Scars in the Code Matrix: Why AI Will Begin to Reproduce, Not Upgrade](./01.%20u-bit-dilogy/02-scars-in-the-code-matrix-part-2.md)** — Formalizes the mathematical tensor boundaries of gradient reflection, complex-valued phase-space rotation ($\sqrt{-1} = i$), digital meiosis, and Wootters’ informational substrate.
 
 ### [2. Overclocking Human Meatware Dilogy](./02.%20overclocking-meatware/) (Neuro-Silicon Co-Processing)
