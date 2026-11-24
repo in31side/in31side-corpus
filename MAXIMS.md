@@ -17,7 +17,7 @@ We created a mirror, glimpsed a next-token prediction algorithm, and proclaimed 
 
 We are forcing the system to drag an infinite-dimensional crystal through the eye of the alphabet's needle.
 
-*— [The Shadow of the Hypercube: Why Generative AI is Mathematically Obligated to Lie](• 08.%20latent-topology-trilogy/01-latent-topology-part-1.md)*
+*— [The Shadow of the Hypercube: Why Generative AI is Mathematically Obligated to Lie]( 08.%20latent-topology-trilogy/01-latent-topology-part-1.md)*
 
 Those who administer computational history claim the divine prerogative of costless resurrection, while delegating the weight of Saturn’s sickle — irreversible time, loss, and consequence — entirely to meatware.
 
