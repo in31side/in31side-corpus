@@ -96,7 +96,8 @@ An asynchronous anthology of independent essays, lateral thought experiments, an
 
 ## Companion Indices & Distillations
 
-- **MAXIMS.md** — A distilled, uncategorized collection of core aphorisms, paradoxes, and ontological insights extracted across the entire corpus.
+- **[MAXIMS.md](MAXIMS.md)** — A distilled, uncategorized collection of core aphorisms, paradoxes, and ontological insights extracted across the entire corpus.
+
 - **[GLOSSARY.md](GLOSSARY.md)** — Standardized definitions of key technical, mathematical, and philosophical neologisms introduced throughout *Mapping the Post-Scalar AI Horizon*.
 
 
