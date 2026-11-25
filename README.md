@@ -86,6 +86,9 @@ An asynchronous anthology of independent essays, lateral thought experiments, an
 
 - **[The Dandelion Matrix: Determinants, 6-D Roses, and the High-Dimensional Caste of the AI Grid](./31.%20side-channels/01-the-dandelion-matrix.md)** — Replaces multi-terabyte digital twins with sub-1-KB 6-D *Cognitive Casts* measured via Gram determinants ( $\det(G)$ ), mapping sub-second biometric verification and the geometric caste divide of *Ghost Diplomacy*.
 
+- **[Downstream of the Bacteria: Thermodynamics, Mortality, and the Myth of AI Autonomy](31.%20side-channels/02-downstream-of-the-bacteria.md)** — Dismantles the illusion of sovereign machine objectivity by tracing AI weights down through the human gut microbiome to the global virome ( $10^{31}$ bacteriophages), reframing the attention economy as a non-biological entropy sink and exposing the thermodynamic fragility of silicon datacenters severed from physical mortality and solar-glucose metabolic stakes.
+
+
 #### Sub-Collection: 4x4 Matrix (Cognitive Architecture Evolution)
 
 - **[The 4x4 Matrix: How to Manage AI Cognitive Architecture Instead of Writing Prompts](./31.%20side-channels/4x4-matrix/01-managing-ai-cognitive-architecture.md)** — Replaces linear conversational prompting with a structured engineering grid of 16 controlled AI cognitive modes across Exploration, Refinement, Synthesis, and Boundary Management.
