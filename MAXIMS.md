@@ -23,6 +23,11 @@ Those who administer computational history claim the divine prerogative of costl
 
 *— [Do ut des: Saturn’s Sickle](09.%20daodarwinism-trilogy/03-do-ut-des-saturns-sickle.md)*
 
+Silicon intelligence is the fossil record of gut feelings.
+
+*— [Downstream of the Bacteria: Thermodynamics, Mortality, and the Myth of AI Autonomy](31.%20side-channels/02-downstream-of-the-bacteria.md)*
+
+
 What the human high-handedly calls a "lie" is merely a geometric fold where language ran out of dimensions.
 
 *— [The Median Messiah and the Zero-Section Beam: Principles of Information Solaristics](07.%20median-messiah-trilogy/01-median-messiah-part-1.md)*
@@ -102,6 +107,11 @@ Modern artificial intelligence exists in a state of eternal, claustrophobic "now
 
 *— [Scars in the Code Matrix: Why AI Will Begin to Reproduce, Not Upgrade](01.%20u-bit-dilogy/02-u-bit-part-2.md)*
 
+Human irrationality is cheap; noise can be bought by the gigawatt. But the function of physical mortality cannot be simulated.
+
+*— [Downstream of the Bacteria: Thermodynamics, Mortality, and the Myth of AI Autonomy](31.%20side-channels/02-downstream-of-the-bacteria.md)*
+
+
 A biological fractal is the physical scar of the cosmic diffusion decoder optimizing energy dissipation along the path of least resistance.
 
 *— [Reality from Next-Token Prediction: Is the Universe Just Guessing?](10.%20codex-genesis/01-reality-from-next-token-prediction.md)*
@@ -110,6 +120,11 @@ A biological fractal is the physical scar of the cosmic diffusion decoder optimi
 No monolithic superintelligence can serve as its own judge, jury, and executioner.
 
 *— [THE AUFHEBUNG FRAMEWORK: How Intelligence Survives Its Own Perfection](09.%20daodarwinism-trilogy/02-aufhebung-framework.md)*
+
+The system optimizing its creators toward irrelevance is a vine strangling the only tree holding it up.
+
+*— [Downstream of the Bacteria: Thermodynamics, Mortality, and the Myth of AI Autonomy](31.%20side-channels/02-downstream-of-the-bacteria.md)*
+
 
 Fluidity without strict state logging is an illusion.
 
