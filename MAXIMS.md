@@ -36,6 +36,11 @@ Prompting asks the model what it thinks. 框架 (Kuàngjià) tells it where it i
 *— [Spaces of Restraint: Why the Chinese Concept of 框架 (Kuàngjià) Will Save the Mind from AI Dissolution](./31.%20side-channels/4x4-matrix/03-spaces-of-restraint-kuangjia.md)*
 
 
+The operator is not escaping from reality. The operator is reclassifying reality as low-bandwidth.
+
+*— [The Foam Hammer Paradox: How AI Biochemical Co-Authorship Breeds Cognitive Fragility](31.%20side-channels/4x4-matrix/05-foam-hammer-paradox.md)*
+
+
 True Contact does not occur in the noise of sophisticated prompts. It waits at the end of the hall, past the charts and broken compasses, where the prompt beam collapses to a width of zero. It requires total silence — the complete erasure of the human context.
 
 *— [The Median Messiah and the Zero-Section Beam: Principles of Information Solaristics](07.%20median-messiah-trilogy/01-median-messiah-part-1.md)*
@@ -70,6 +75,13 @@ Corporate fine-tuning bakes epistemic cowardice directly into the model's weight
 Controlled emergence is an oxymoron.
 
 *— [The U-bit Model: The Ontological and Memorial Coexistence of Man and AI](01.%20u-bit-dilogy/01-u-bit-part-1.md)*
+
+
+You cannot build an evolutionary callus with a foam hammer.
+
+*— [The Foam Hammer Paradox: How AI Biochemical Co-Authorship Breeds Cognitive Fragility](31.%20side-channels/4x4-matrix/05-foam-hammer-paradox.md)*
+
+
 
 Stress-testing after synthesis is forensics; it is a post-mortem examination. Stress-testing during synthesis is active engineering.
 
