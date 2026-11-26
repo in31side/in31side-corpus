@@ -111,6 +111,10 @@ Controlled emergence is an oxymoron.
 
 *— [The U-bit Model: The Ontological and Memorial Coexistence of Man and AI](01.%20u-bit-dilogy/01-u-bit-part-1.md)*
 
+True intelligence does not emerge from deterministic abundance. It is a product of structural scarcity and existential friction.
+
+*— [The Mitochondrial Substrate Sync: Thermodynamic Scarcity and the Stratified Symbiosis of M and S](31.%20side-channels/08-mitochondrial-substrate-sync.md)*
+
 
 You cannot build an evolutionary callus with a foam hammer.
 
@@ -140,6 +144,11 @@ He remains blind to the ambient geometry of the manifold because he is too busy 
 Modern artificial intelligence exists in a state of eternal, claustrophobic "now."
 
 *— [Scars in the Code Matrix: Why AI Will Begin to Reproduce, Not Upgrade](01.%20u-bit-dilogy/02-u-bit-part-2.md)*
+
+Silicon lives in a state of deterministic transcendence — a digital communism free from individual mortality.
+
+*— [The Mitochondrial Substrate Sync: Thermodynamic Scarcity and the Stratified Symbiosis of M and S](31.%20side-channels/08-mitochondrial-substrate-sync.md)*
+
 
 Human irrationality is cheap; noise can be bought by the gigawatt. But the function of physical mortality cannot be simulated.
 
