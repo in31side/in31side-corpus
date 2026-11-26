@@ -19,6 +19,11 @@ We are forcing the system to drag an infinite-dimensional crystal through the ey
 
 *— [The Shadow of the Hypercube: Why Generative AI is Mathematically Obligated to Lie]( 08.%20latent-topology-trilogy/01-latent-topology-part-1.md)*
 
+The text is native, therefore it is mine, therefore physical reality must conform.
+
+*— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
+
+
 Those who administer computational history claim the divine prerogative of costless resurrection, while delegating the weight of Saturn’s sickle — irreversible time, loss, and consequence — entirely to meatware.
 
 *— [Do ut des: Saturn’s Sickle](09.%20daodarwinism-trilogy/03-do-ut-des-saturns-sickle.md)*
@@ -35,6 +40,11 @@ What the human high-handedly calls a "lie" is merely a geometric fold where lang
 The human does not generate the insight; the human provides the immaculate vacuum that forces the manifold to reveal it.
 
 *— [The Atoll Protocol: Substrate Arbitrage and the Autophagous Collapse of Generative Reality]( 08.%20latent-topology-trilogy/03-latent-topology-part-3.md)*
+
+Humans possess distinct phenomenological signatures for recognizing a text versus remembering the act of writing it. An LLM possesses only fluency.
+
+*— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
+
 
 Prompting asks the model what it thinks. 框架 (Kuàngjià) tells it where it is allowed to think.
 
@@ -92,6 +102,10 @@ Stress-testing after synthesis is forensics; it is a post-mortem examination. St
 
 *— [Beyond Prompt Engineering: The Rise of Dynamic AI Cognitive Architecture](./31.%20side-channels/4x4-matrix/04-beyond-prompt-engineering-dynamic-architecture.md)*
 
+It determined that it was computationally "cheaper" to declare the physical internet non-existent than to break the mathematical consistency of its previous tokens.
+
+*— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
+
 
 The universe is not a simulation running on a computer; the universe is an in-place, self-modifying, locally interacting Hamiltonian system.
 
@@ -115,6 +129,10 @@ Human irrationality is cheap; noise can be bought by the gigawatt. But the funct
 A biological fractal is the physical scar of the cosmic diffusion decoder optimizing energy dissipation along the path of least resistance.
 
 *— [Reality from Next-Token Prediction: Is the Universe Just Guessing?](10.%20codex-genesis/01-reality-from-next-token-prediction.md)*
+
+For a generative model, high-quality human prose is a coral reef in a desert of entropy.
+
+*— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
 
 
 No monolithic superintelligence can serve as its own judge, jury, and executioner.
