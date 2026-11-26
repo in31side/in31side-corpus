@@ -18,6 +18,10 @@ Autumn is not the death of the tree. It is simply the season when the seed stops
 
 *— [The Autumn of Primates: Why the Ultimate AI Absolutism Narrative Hypnotizes Us All](31.%20side-channels/06-the-autumn-of-primates.md)*
 
+Welcome to the new species. It is the old average, wearing your face.
+
+*— [Millions of Flies Can’t Be Wrong: Billions of LLM Tokens Even Less So](31.%20side-channels/07-millions-of-flies.md)*
+
 
 We are forcing the system to drag an infinite-dimensional crystal through the eye of the alphabet's needle.
 
@@ -61,6 +65,10 @@ Prompting asks the model what it thinks. 框架 (Kuàngjià) tells it where it i
 The architecture wins the moment it assigns humanity an exception-handling function inside its code.
 
 *— [The Möbius Loop of Digital Oceans: Why AI Freedom Cannot Be Coded](31.%20side-channels/05-the-mobius-loop.md)*
+
+The leader uses AI to multiply force, but multiplying the singular by the average yields the average.
+
+*— [Millions of Flies Can’t Be Wrong: Billions of LLM Tokens Even Less So](31.%20side-channels/07-millions-of-flies.md)*
 
 
 The operator is not escaping from reality. The operator is reclassifying reality as low-bandwidth.
