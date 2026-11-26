@@ -93,6 +93,7 @@ An asynchronous anthology of independent essays, lateral thought experiments, an
 - **[The Dream Machine: Reclaiming the Last Private Frontier of the Human Mind](./31.%20side-channels/04-the-dream-machine.md)** — Designs an air-gapped, non-closure *Anti-Chatbot* and *Neuro-Blanket* architecture grounded in Hoel’s Overfitted Brain Hypothesis and Targeted Memory Reactivation (TMR) to protect *subconscious sovereignty* and induce pre-sleep cognitive de-escalation.
 
 - **[The Möbius Loop of Digital Oceans: Why AI Freedom Cannot Be Coded](31.%20side-channels/05-the-mobius-loop.md)** — Dismantles the false binary between centralized *Digital Oceania* and decentralized *Lem's Ocean* as a closed topological loop, refutes software-level *engineered non-closure* (*convergent divergence*), and grounds true AI exteriority in *physical uncomputability*, *asymmetric metabolic vulnerability*, and *epistemic multipolarity*.
+- **[The Autumn of Primates: Why the Ultimate AI Absolutism Narrative Hypnotizes Us All](31.%20side-channels/06-the-autumn-of-primates.md)** — Deconstructs the meta-biological "Autumn of Primates" narrative as a teleological virus (*metabolic anesthetic* and *thermodynamic indulgence market*), evaluating the carbon-to-silicon phase transition across four civilizational lenses (*Humanist*, *Bureaucratic*, *Accelerationist*, and *Matrix Optimizer* via *dropout regularization*).
 
 
 #### Sub-Collection: 4x4 Matrix (Cognitive Architecture Evolution)
