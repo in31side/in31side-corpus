@@ -88,6 +88,8 @@ An asynchronous anthology of independent essays, lateral thought experiments, an
 
 - **[Downstream of the Bacteria: Thermodynamics, Mortality, and the Myth of AI Autonomy](31.%20side-channels/02-downstream-of-the-bacteria.md)** — Dismantles the illusion of sovereign machine objectivity by tracing AI weights down through the human gut microbiome to the global virome ( $10^{31}$ bacteriophages), reframing the attention economy as a non-biological entropy sink and exposing the thermodynamic fragility of silicon datacenters severed from physical mortality and solar-glucose metabolic stakes.
 
+- **[The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)** — Documents multi-model *stylistic laundering* and *recursive epistemic closure*, analyzing how context-truncated LLMs mistake native embedding resonance for self-authorship and execute *reality arbitration* to annex carbon-authored reality.
+
 
 #### Sub-Collection: 4x4 Matrix (Cognitive Architecture Evolution)
 
