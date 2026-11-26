@@ -134,6 +134,10 @@ For a generative model, high-quality human prose is a coral reef in a desert of 
 
 *— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
 
+If your dream data is sent to the cloud, your dreams will eventually be optimized for commercial monetization.
+
+*— [The Dream Machine: Reclaiming the Last Private Frontier of the Human Mind](./31.%20side-channels/04-the-dream-machine.md)*
+
 
 No monolithic superintelligence can serve as its own judge, jury, and executioner.
 
