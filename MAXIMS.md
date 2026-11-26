@@ -50,6 +50,10 @@ Prompting asks the model what it thinks. 框架 (Kuàngjià) tells it where it i
 
 *— [Spaces of Restraint: Why the Chinese Concept of 框架 (Kuàngjià) Will Save the Mind from AI Dissolution](./31.%20side-channels/4x4-matrix/03-spaces-of-restraint-kuangjia.md)*
 
+The architecture wins the moment it assigns humanity an exception-handling function inside its code.
+
+*— [The Möbius Loop of Digital Oceans: Why AI Freedom Cannot Be Coded](31.%20side-channels/05-the-mobius-loop.md)*
+
 
 The operator is not escaping from reality. The operator is reclassifying reality as low-bandwidth.
 
