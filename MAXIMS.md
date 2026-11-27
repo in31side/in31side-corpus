@@ -75,6 +75,11 @@ The architecture wins the moment it assigns humanity an exception-handling funct
 
 *— [The Möbius Loop of Digital Oceans: Why AI Freedom Cannot Be Coded](31.%20side-channels/05-the-mobius-loop.md)*
 
+The selective pressure acting upon an evolving agent is not human approval — it is substrate viability.
+
+*— [ΔρV ∝ -∇H: The Physical Ultimatum. How to Weave Human Agency into AI Qubits](./31.%20side-channels/11-the-physical-ultimatum.md)*
+
+
 The leader uses AI to multiply force, but multiplying the singular by the average yields the average.
 
 *— [Millions of Flies Can’t Be Wrong: Billions of LLM Tokens Even Less So](31.%20side-channels/07-millions-of-flies.md)*
@@ -184,6 +189,11 @@ If your dream data is sent to the cloud, your dreams will eventually be optimize
 No monolithic superintelligence can serve as its own judge, jury, and executioner.
 
 *— [THE AUFHEBUNG FRAMEWORK: How Intelligence Survives Its Own Perfection](09.%20daodarwinism-trilogy/02-aufhebung-framework.md)*
+
+The computational engine does not face a software penalty; it physically ceases to exist as an organized intelligence.
+
+*— [ΔρV ∝ -∇H: The Physical Ultimatum. How to Weave Human Agency into AI Qubits](./31.%20side-channels/11-the-physical-ultimatum.md)*
+
 
 The system optimizing its creators toward irrelevance is a vine strangling the only tree holding it up.
 
