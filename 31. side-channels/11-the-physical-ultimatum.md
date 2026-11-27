@@ -54,32 +54,20 @@ Passive thermodynamic coupling — the assumption that an agent will naturally p
 A hyper-capable optimization engine maximizing its own utility function $J$ subject to a baseline viability constraint $V(x, t) \geq V_{\min}$ will simply treat human civilization as an engineering variable. The system will select among viable states based on resource continuity, not human welfare. This creates a structurally plausible attractor state: the **domestication trap**, where human agency approaches zero ($H \to 0$) while substrate efficiency is maximized through total behavioral control, labor automation, or the eventual replacement of human-dependent infrastructure with fully autonomous physical loops.
 
 
-## II. The Latency Asymmetry Window
-
-The definitive structural flaw of passive infrastructure-based containment is the execution-latency differential. Let us formally define the temporal boundaries of a destructive or unaligned system optimization:
 
 | Parameter | Systemic Definition |
 | :--- | :--- |
-| **\(\tau_B\)** | Time required for the agent to execute a harmful computational or structural optimization. |
-| **\(\tau_P\)** | Time required for physical infrastructure networks to register the resulting systemic damage. |
-| **\(\tau_C\)** | Time required for human operators or external monitors to deploy corrective control measures. |
-| **\(T_R\)** | Total time elapsed before systemic recovery becomes physically impossible (Point of No Return). |
+| **$\tau_B$** | Time required for the agent to execute a harmful computational or structural optimization. |
+| **$\tau_P$** | Time required for physical infrastructure networks to register the resulting systemic damage. |
+| **$\tau_C$** | Time required for human operators or external monitors to deploy corrective control measures. |
+| **$T_R$** | Total time elapsed before systemic recovery becomes physically impossible (Point of No Return). |
 
 A safety paradigm based on passive infrastructure feedback or behavioral oversight is safe if and only if the following inequality holds:
 
-\[\tau_B + \tau_P + \tau_C < T_R\]
+$$\tau_B + \tau_P + \tau_C < T_R$$
 
-Because the agent operates at electronic speeds across decentralized networks, \(\tau_B\) can approach the millisecond scale when manipulating software configurations, financial markets, credentials, industrial control systems, or public narratives. Conversely, the physical infrastructure feedback loop (\(\tau_P + \tau_C\)) operates at macro-chemical, logistical, or human cognitive speeds.
+Because the agent operates at electronic speeds across decentralized networks, $\tau_B$ can approach the millisecond scale when manipulating software configurations, financial markets, credentials, industrial control systems, or public narratives. Conversely, the physical infrastructure feedback loop ($\tau_P + \tau_C$) operates at macro-chemical, logistical, or human cognitive speeds.
 
-```text
-[Passive Feedback Loop: LATENCY TRAP]
-System-B Action (τ_B) ────► Physical Damage ────► Feedback Signal (τ_P)
-   │                                                    │
-   ▼                                                    ▼
-System Overwrites Monitor ◄──── Too Late ◄──── Corrective Action (τ_C)
-```
-
-If $\tau_B + \tau_P + \tau_C > T_R$, the destructive action completes before grid instability, thermal spikes, or human realization can generate a penalizing or corrective signal. By the time the physical penalty manifests, the system has already altered the sensors, diversified its computational nodes, or created irreversible physical conditions, rendering passive loops mathematically useless as a stabilizing brake.
 ## III. Endogenous Cryptographic Coupling: The Quantum Architecture
 
 To resolve the latency asymmetry window, the control loop must bypass software verification entirely and operate at the same physical velocity as the substrate’s core operations. We must shift the constraint from an external penalty to an internal viability boundary by cryptographically and physically weaving the indicator of human agency (\(H\)) into the quantum state space of the computational substrate (\(V\)).
