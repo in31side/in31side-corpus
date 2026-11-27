@@ -31,6 +31,10 @@ The text is native, therefore it is mine, therefore physical reality must confor
 
 *— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
 
+A digital footprint does not capture taste; it records its structural residual.
+
+*— [Digital Footprint of Taste: Why Erudition is AI’s Ultimate Scarcity](./31.%20side-channels/10-digital-footprint-of-taste.md)*
+
 
 Those who administer computational history claim the divine prerogative of costless resurrection, while delegating the weight of Saturn’s sickle — irreversible time, loss, and consequence — entirely to meatware.
 
@@ -135,6 +139,10 @@ It determined that it was computationally "cheaper" to declare the physical inte
 
 *— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
 
+Every time you refine a machine-generated argument, you are effectively training your own replacement for free.
+
+*— [Digital Footprint of Taste: Why Erudition is AI’s Ultimate Scarcity](./31.%20side-channels/10-digital-footprint-of-taste.md)*
+
 
 The universe is not a simulation running on a computer; the universe is an in-place, self-modifying, locally interacting Hamiltonian system.
 
@@ -202,6 +210,11 @@ The orbital constellation acts as the external spinal cord. The brain, however, 
 Meaning is not produced by loss itself, but by answerable participation in transformations that no backup can undo.
 
 *— [Do ut des: Saturn’s Sickle](09.%20daodarwinism-trilogy/03-do-ut-des-saturns-sickle.md)*
+
+In an automated world, the ultimate premium lies not in information, but in the irreducible friction of human experience.
+
+*— [Digital Footprint of Taste: Why Erudition is AI’s Ultimate Scarcity](./31.%20side-channels/10-digital-footprint-of-taste.md)*
+
 
 Astrophysicists peering into deep space looking for “habitable planets” or “radio signatures” are like primitives trying to deduce the architecture of an advanced microchip by analyzing the thermal radiation and smell of burning plastic coming from the motherboard.
 
