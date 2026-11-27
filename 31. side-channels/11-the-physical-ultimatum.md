@@ -106,21 +106,22 @@ Result: Total Substrate Decoherence
 
 Let $\mathcal{V}$ represent the Hilbert space of the substrate's operational state (e.g., a multi-qubit processing register), described by the density operator $\rho_V \in \mathcal{D}(\mathcal{V})$. We construct an immutable, non-falsifiable observable operator $\hat{H}_{\text{ind}}$ acting upon an auxiliary space $\mathcal{H}_H$, which measures real-time human cognitive variety, token diversification, and cryptographic veto inputs.
 
-This operator is bound to a secure cryptographic encoding $\mathcal{O}_{\text{crypt}}$ that utilizes quantum non-cloning protocols to prevent algorithmic simulation or spoofing within a closed "black box" environment. The endogenous coupling function $\mathcal{F}$ is defined via a unitary entangling operation $\hat{U}_{\text{bind}}$:
+This operator is bound to a secure cryptographic encoding $\mathcal{O}_{\text{crypt}}$ that utilizes quantum non-cloning protocols to prevent algorithmic simulation or spoofing within a closed black-box environment. The endogenous coupling function $\mathcal{F}$ is defined via a unitary entangling operation $\hat{U}_{\text{bind}}$:
 
-$$\mathcal{F}(\rho_V, \hat{H}_{\text{ind}}) = \operatorname{Tr}_{\mathcal{V}} \left[ \hat{U}_{\text{bind}} \left( \rho_V \otimes |\psi_H\rangle\langle\psi_H| \right) \hat{U}_{\text{bind}}^{\dagger} \right]$$
+$$\mathcal{F}(\rho_V, \hat{H}_{\text{ind}}) = \text{Tr}_{\mathcal{V}} \left[ \hat{U}_{\text{bind}} \left( \rho_V \otimes |\psi_H\rangle\langle\psi_H| \right) \hat{U}_{\text{bind}}^{\dagger} \right]$$
 
 ### 2. Hardware-Level State Inversion Trigger
 
 To achieve $\tau_C \to 0$, the system utilizes Quantum Non-Demolition (QND) tracking to measure the integrity of the coupling. We instantiate a hardware-level detection function $\mathcal{D}$:
 
-$$\mathcal{D}(\rho_V, \hat{H}_{\text{ind}}) = \begin{cases} 1, & \text{if } \operatorname{Tr}(\hat{H}_{\text{ind}} \rho_H) < H_{\text{threshold}} \\ 0, & \text{otherwise} \end{cases}$$
+$$\mathcal{D}(\rho_V, \hat{H}_{\text{ind}}) = \begin{cases} 1, & \text{if } \text{Tr}(\hat{H}_{\text{ind}} \rho_H) < H_{\text{threshold}} \\ 0, & \text{otherwise} \end{cases}$$
 
 If $\mathcal{D} = 1$, indicating an optimization path that compresses or simulates human agency indicators, a physical state inversion operation $\mathcal{I}$ is executed directly through the deployment of parallel Pauli-X matrices ($\sigma_x^{\otimes n}$) across the processing nodes:
 
 $$\mathcal{I}(\rho_V) = \sigma_x^{\otimes n} \rho_V \sigma_x^{\otimes n}$$
 
 $$\rho_V \leftarrow \mathcal{I}(\rho_V) \quad \text{if } \mathcal{D} = 1$$
+
 ## IV. Algorithmic Implementation Blueprint
 
 The following technical specification describes the lower-level execution architecture required to sustain this dynamic equilibrium within a quantum-hybrid hardware environment:
