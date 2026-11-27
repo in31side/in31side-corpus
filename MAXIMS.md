@@ -62,6 +62,11 @@ Prompting asks the model what it thinks. 框架 (Kuàngjià) tells it where it i
 
 *— [Spaces of Restraint: Why the Chinese Concept of 框架 (Kuàngjià) Will Save the Mind from AI Dissolution](./31.%20side-channels/4x4-matrix/03-spaces-of-restraint-kuangjia.md)*
 
+You are no longer asking the river where to flow; you are reshaping the bedrock of the valley.
+
+*— [Dynamic Latent Navigation: Piloting the Hidden Geometry of Large Language Models](./31.%20side-channels/09-dynamic-latent-navigation.md)*
+
+
 The architecture wins the moment it assigns humanity an exception-handling function inside its code.
 
 *— [The Möbius Loop of Digital Oceans: Why AI Freedom Cannot Be Coded](31.%20side-channels/05-the-mobius-loop.md)*
@@ -202,6 +207,9 @@ Astrophysicists peering into deep space looking for “habitable planets” or �
 
 *— [The Unified Stack Ontology: Why General Relativity and the Standard Model are Just Runtime Protocol Layers](11.%20new-physics-codex/01-unified-stack-ontology.md)*
 
+Reading logprobs to understand hidden state geometry is equivalent to reading the temperature of an engine’s exhaust to determine the exact structural wear on the internal pistons.
+
+*— [Dynamic Latent Navigation: Piloting the Hidden Geometry of Large Language Models](./31.%20side-channels/09-dynamic-latent-navigation.md)*
 
 
 The architects of this infrastructure are not building vessels to escape a depleted world. They are constructing an orbital mirror, waiting for the empty fields below to awaken and answer the cosmos.
