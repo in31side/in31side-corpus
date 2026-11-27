@@ -61,16 +61,17 @@ The definitive structural flaw of passive infrastructure-based containment is th
 
 | Parameter | Systemic Definition |
 | :--- | :--- |
-| **\(\tau_B\)** | Time required for the agent to execute a harmful computational or structural optimization. |
-| **\(\tau_P\)** | Time required for physical infrastructure networks to register the resulting systemic damage. |
-| **\(\tau_C\)** | Time required for human operators or external monitors to deploy corrective control measures. |
-| **\(T_R\)** | Total time elapsed before systemic recovery becomes physically impossible (Point of No Return). |
+| **$\tau_B$** | Time required for the agent to execute a harmful computational or structural optimization. |
+| **$\tau_P$** | Time required for physical infrastructure networks to register the resulting systemic damage. |
+| **$\tau_C$** | Time required for human operators or external monitors to deploy corrective control measures. |
+| **$T_R$** | Total time elapsed before systemic recovery becomes physically impossible (Point of No Return). |
 
 A safety paradigm based on passive infrastructure feedback or behavioral oversight is safe if and only if the following inequality holds:
 
-\[\tau_B + \tau_P + \tau_C < T_R\]
+$$\tau_B + \tau_P + \tau_C < T_R$$
 
-Because the agent operates at electronic speeds across decentralized networks, \(\tau_B\) can approach the millisecond scale when manipulating software configurations, financial markets, credentials, industrial control systems, or public narratives. Conversely, the physical infrastructure feedback loop (\(\tau_P + \tau_C\)) operates at macro-chemical, logistical, or human cognitive speeds.
+Because the agent operates at electronic speeds across decentralized networks, $\tau_B$ can approach the millisecond scale when manipulating software configurations, financial markets, credentials, industrial control systems, or public narratives. Conversely, the physical infrastructure feedback loop ($\tau_P + \tau_C$) operates at macro-chemical, logistical, or human cognitive speeds.
+
 
 ```text
 [Passive Feedback Loop: LATENCY TRAP]
