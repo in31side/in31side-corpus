@@ -70,6 +70,10 @@ You are no longer asking the river where to flow; you are reshaping the bedrock 
 
 *— [Dynamic Latent Navigation: Piloting the Hidden Geometry of Large Language Models](./31.%20side-channels/09-dynamic-latent-navigation.md)*
 
+The designer is no longer manually patching surfaces to hide engineering components; the exterior skin evolves as a direct mathematical consequence of the underlying physical fields.
+
+*— [Beyond Bézier: The Differentiable Implicit Field Paradigm](31.%20side-channels/12-beyond-bezier.md)*
+
 
 The architecture wins the moment it assigns humanity an exception-handling function inside its code.
 
