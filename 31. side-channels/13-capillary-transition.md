@@ -57,7 +57,7 @@ A common critique of personalized algorithmic influence is that human psychology
 
 However, the modern ambient intelligence framework bypasses this limitation by treating the human mind as a Partially Observed Markov Decision Process (POMDP). The architecture does not require direct access to the human internal cognitive state \(H_i(t)\) at any time step \(t\). Instead, it relies on high-frequency, non-linear Bayesian filtering driven by pervasive physical proxies \(o_i(t)\):
 
-\[o_i(t) \sim P\big(o_i \mid H_i(t)\big)\]
+$$o_i(t) \sim P\big(o_i \mid H_i(t)\big)$$
 
 These proxies consist of microscopic behavioral telemetry: saccadic eye movements over local glass interfaces, transient changes in peripheral vascular flow captured by ambient sensors, keyboard cadence variations, and microscopic pauses in semantic scrolling.
 
