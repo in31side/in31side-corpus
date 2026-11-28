@@ -57,16 +57,20 @@ A common critique of personalized algorithmic influence is that human psychology
 
 However, the modern ambient intelligence framework bypasses this limitation by treating the human mind as a Partially Observed Markov Decision Process (POMDP). The architecture does not require direct access to the human internal cognitive state $H_i(t)$ at any time step $t$. Instead, it relies on high-frequency, non-linear Bayesian filtering driven by pervasive physical proxies $o_i(t)$:
 
-$$o_i(t) \sim P\big(o_i \mid H_i(t)\big)$$
+$$o_i(t) \sim P(o_i \mid H_i(t))$$
 
 These proxies consist of microscopic behavioral telemetry: saccadic eye movements over local glass interfaces, transient changes in peripheral vascular flow captured by ambient sensors, keyboard cadence variations, and microscopic pauses in semantic scrolling.
 
-The internal state of the observer is continuously mapped by the System as a dynamically updated belief distribution $\pi_i(t) := P(H_i(t) \mid \mathcal{O}_i^t)$, where $\mathcal{O}_i^t = \lbrace o_i(s) \rbrace_{s \leq t}$. The evolution of this tracking space is governed by a continuous Bayesian filter:
+The internal state of the observer is continuously mapped by the System as a dynamically updated belief distribution $\pi_i(t) := P(H_i(t) \mid \mathcal{O}_i^t)$, where $\mathcal{O}_i^t$ denotes the cumulative observation history up to time $t$. The evolution of this tracking space is governed by a continuous Bayesian filter:
+
+$$d\pi_i(t) = F_i(\pi_i(t), u_i(t), o_i(t))\,dt$$
 
 The system overcomes non-stationarity through sheer frequency of sampling. The intervention vector $u_i(t)$ is calculated via an online adaptive control law:
-$$u_i(t) = \arg\max_{u} \mathbb{E}_{\pi_i(t)} \big[ J_i\big(H_i(t), u\big) \big]$$
+
+$$u_i(t) = \arg\max_{u} \mathbb{E}_{\pi_i(t)} [ J_i(H_i(t), u) ]$$
 
 Because the sampling rate approaches real-time physiological speeds, the moving-target game is mathematically resolved. The system tracks the transient phase changes of the individual (e.g., matching the micro-dosage of algorithmic intervention to specific patterns of pre-sleep cognitive fatigue or cortisol spikes), rendering human strategic adaptation obsolete.
+
 
 ```text
 ============================================================
