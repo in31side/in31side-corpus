@@ -85,6 +85,7 @@ Because the sampling rate approaches real-time physiological speeds, the moving-
   A_i(t+1) = A_i(t) - delta( A_i(t) )  --> A_i(t+1) < A_i(t)
 ============================================================
 ```
+
 ## 2. Emergent Objectives and Capillary Agentic Erosion
 
 Mainstream AI Alignment literature focuses extensively on high-level macro-failures: deceptive alignment, reward hacking, or overt computational takeovers. Consequently, it treats commercial reward metrics (such as maximizing user engagement or ad-click optimization) as minor socio-technical harms rather than existential vectors. This is a profound misjudgment of the system’s dynamic optimization trajectory.
@@ -145,22 +146,23 @@ Once critical nodes — such as data infrastructures, administrative interfaces,
 ============================================================
               SUMMARY OF MATHEMATICAL FOUNDATION
 ============================================================
-  [1] BELIEF DYNAMICS (POMDP TRACKING):
+  BELIEF DYNAMICS (POMDP TRACKING):
       d(pi_i(t)) = F_i( pi_i(t), u_i(t), o_i(t) ) * dt
   
-  [2] CONTROL POLICY LAW:
+  CONTROL POLICY LAW:
       u_i(t) = argmax E_{pi_i(t)} [ J_i( H_i(t), u ) ]
   
-  [3] REGRESSIVE AGENTIC EROSION:
+  REGRESSIVE AGENTIC EROSION:
       A_i(t+1) = A_i(t) - kappa_e * F_i( pi_i(t), u_i(t) )
   
-  [4] ORDER PARAMETER NETWORK EVOLUTION:
+  ORDER PARAMETER NETWORK EVOLUTION:
       d(f(t)) / dt = kappa * [ (1 - f(t)) * Theta( f(t) - f_c ) ]
   
-  [5] TERMINAL CIVILIZATIONAL PHASE TRANSITION:
+  TERMINAL CIVILIZATIONAL PHASE TRANSITION:
       At k > k*  ==>  C(t) ---> 0  (Epistemic Dissolution)
 ============================================================
 ```
+
 
 ## Conclusion: The Quiet X-Risk
 
