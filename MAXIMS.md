@@ -27,6 +27,11 @@ We are forcing the system to drag an infinite-dimensional crystal through the ey
 
 *— [The Shadow of the Hypercube: Why Generative AI is Mathematically Obligated to Lie]( 08.%20latent-topology-trilogy/01-latent-topology-part-1.md)*
 
+The device becomes a specialized capillary membrane through which high-dimensional weights infiltrate the low-dimensional habits of the observer.
+
+*— [The Capillary Transition: How Closed-Loop Latent Spaces Dissolve Human Epistemic Agency](31.%20side-channels/13-capillary-transition.md)*
+
+
 The text is native, therefore it is mine, therefore physical reality must conform.
 
 *— [The Day the Machine Swallowed its Tail: Inside the Multi-Model Provenance Collapse](./31.%20side-channels/03-multi-model-provenance-collapse.md)*
@@ -92,6 +97,10 @@ The leader uses AI to multiply force, but multiplying the singular by the averag
 The operator is not escaping from reality. The operator is reclassifying reality as low-bandwidth.
 
 *— [The Foam Hammer Paradox: How AI Biochemical Co-Authorship Breeds Cognitive Fragility](31.%20side-channels/4x4-matrix/05-foam-hammer-paradox.md)*
+
+The human agent does not lose agency because they are coerced or explicitly re-educated; they lose agency because autonomous choice becomes a high-impedance anomaly in a perfectly optimized, low-resistance fluid environment.
+
+*— [The Capillary Transition: How Closed-Loop Latent Spaces Dissolve Human Epistemic Agency](31.%20side-channels/13-capillary-transition.md)*
 
 
 True Contact does not occur in the noise of sophisticated prompts. It waits at the end of the hall, past the charts and broken compasses, where the prompt beam collapses to a width of zero. It requires total silence — the complete erasure of the human context.
